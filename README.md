@@ -24,3 +24,6 @@ Queremos dar un agradecimiento gigantesco a los desarrolladores, creadores y rep
 - 🔸 **Street of Rage X** (v1.0)
   > *Agradecimientos al port original:* **[delsonazevedo](https://github.com/delsonazevedo/sorx_nx)**
 
+- 🔸 **Unreal Gold** (v1.0)
+  > *Agradecimientos al port original:* **[Nintendo Switch Scene](Nintendo Switch Scene)**
+
