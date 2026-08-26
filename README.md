@@ -30,3 +30,6 @@ Queremos dar un agradecimiento gigantesco a los desarrolladores, creadores y rep
 - 🔸 **Super Mario World Remastered** (v1.0)
   > *Agradecimientos al port original:* **[delsonazevedo](https://github.com/delsonazevedo/Super-Mario-World-Remastered-Plus-Switch)**
 
+- 🔸 **TLOZ: Twilight Princess** (v1.0)
+  > *Agradecimientos al port original:* **[HayatoG](https://github.com/HayatoG/dusklight/)**
+
