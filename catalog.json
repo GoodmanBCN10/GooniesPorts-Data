@@ -1,5 +1,59 @@
 [
     {
+        "name": "crazytaxi",
+        "title": "Crazy Taxy Classic",
+        "category": "Android",
+        "developer": "delsonazevedo",
+        "version": "1.0",
+        "directDownloadUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/crazytaxi_Goonies.zip",
+        "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/CrazyTaxy.jpg?raw=true",
+        "description": "",
+        "sourceUrl": "https://github.com/delsonazevedo"
+    },
+    {
+        "name": "goldenballoon",
+        "title": "Diddy_Kong_Racing",
+        "category": "Nintendo 64",
+        "developer": "boraeskicioglu",
+        "version": "1.0",
+        "directDownloadUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/goldenballoon_Goonies.zip",
+        "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/diddy-kong-racing_2fzx.jpg?raw=true",
+        "description": "",
+        "sourceUrl": "https://github.com/boraeskicioglu/goldenballoon_nx"
+    },
+    {
+        "name": "pvz2_nx",
+        "title": "Plants vs Zombies 2",
+        "category": "Android",
+        "developer": "xflipperkast",
+        "version": "1.0",
+        "directDownloadUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/pvz2_nx_Goonies.zip",
+        "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/pvz2_nx.jpg?raw=true",
+        "description": "",
+        "sourceUrl": "https://github.com/xflipperkast/PVZ2_NX"
+    },
+    {
+        "name": "retrohighwayracing",
+        "title": "AP7 Retro Highway Racing",
+        "category": "Android",
+        "developer": "GoodmanBCN",
+        "version": "1.0",
+        "directDownloadUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/retrohighwayracing_Goonies.zip",
+        "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/AP7%20Retro%20Highway%20Racing%20Android.png?raw=true",
+        "description": ""
+    },
+    {
+        "name": "Lighthouse",
+        "title": "Banjo-Kazooie",
+        "category": "Nintendo 64",
+        "developer": "PalindromicBreadLoaf",
+        "sourceUrl": "https://github.com/PalindromicBreadLoaf/Docklight",
+        "version": "1.0",
+        "directDownloadUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/Lighthouse_Goonies.zip",
+        "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/banjo-kazooie_n64.jpg?raw=true",
+        "description": ""
+    },
+    {
         "name": "sorx_nx",
         "title": "Street of Rage X",
         "category": "Android",
@@ -9,5 +63,16 @@
         "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/street_of_rage_nx.jpg?raw=true",
         "description": "",
         "sourceUrl": "https://github.com/delsonazevedo/sorx_nx"
+    },
+    {
+        "name": "UnrealGold",
+        "title": "Unreal Gold",
+        "category": "Port",
+        "developer": "Nintendo Switch Scene",
+        "version": "1.0",
+        "directDownloadUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/UnrealGold_part1.zip,https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/UnrealGold_part2.zip",
+        "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/unrealgold.jpg?raw=true",
+        "description": "",
+        "sourceUrl": "Nintendo Switch Scene"
     }
 ]
