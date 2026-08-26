@@ -85,5 +85,16 @@
         "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/Super Mario World Remastered.jpg?raw=true",
         "description": "",
         "sourceUrl": "https://github.com/delsonazevedo/Super-Mario-World-Remastered-Plus-Switch"
+    },
+    {
+        "name": "dusk",
+        "title": "TLOZ: Twilight Princess",
+        "category": "GameCube",
+        "developer": "HayatoG",
+        "version": "1.0",
+        "directDownloadUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/dusk_Goonies.zip",
+        "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/TLOZ dusk.jpg?raw=true",
+        "description": "",
+        "sourceUrl": "https://github.com/HayatoG/dusklight/"
     }
 ]
