@@ -11,13 +11,16 @@ Queremos dar un agradecimiento gigantesco a los desarrolladores, creadores y rep
   > *Agradecimientos al port original:* **[delsonazevedo](https://github.com/delsonazevedo)**
 
 - 🕹️ **Diddy_Kong_Racing** (v1.0)
-  > *Agradecimientos al port original:* **[robzilla10001](https://github.com/robzilla10001/SwitchPorts)**
+  > *Agradecimientos al port original:* **[Nintendo](https://github.com/robzilla10001/SwitchPorts)**
 
 - 🕹️ **Plants vs Zombies 2** (v1.0)
   > *Agradecimientos al port original:* **[xflipperkast](https://github.com/xflipperkast/PVZ2_NX)**
 
 - 🕹️ **AP7 Retro Highway Racing** (v1.0)
   > *Agradecimientos al port original:* **GoodmanBCN**
+
+- 🕹️ **Banjo-Kazooie** (v1.0)
+  > *Agradecimientos al port original:* **[PalindromicBreadLoaf](https://github.com/PalindromicBreadLoaf/Docklight)**
 
 ---
 *⚠️ Este README y el archivo `catalog.json` se generan y actualizan automáticamente mediante nuestro Asistente de Sincronización Inteligente.*
