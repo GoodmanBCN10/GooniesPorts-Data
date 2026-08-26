@@ -82,7 +82,7 @@
         "developer": "delsonazevedo",
         "version": "1.0",
         "directDownloadUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/smwr_nx_Goonies.zip",
-        "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/Super Mario World Remastered.jpg?raw=true",
+        "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/Super%20Mario%20World%20Remastered.jpg?raw=true",
         "description": "",
         "sourceUrl": "https://github.com/delsonazevedo/Super-Mario-World-Remastered-Plus-Switch"
     },
@@ -93,7 +93,7 @@
         "developer": "HayatoG",
         "version": "1.0",
         "directDownloadUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/dusk_Goonies.zip",
-        "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/TLOZ dusk.jpg?raw=true",
+        "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/TLOZ%20dusk.jpg?raw=true",
         "description": "",
         "sourceUrl": "https://github.com/HayatoG/dusklight/"
     }
