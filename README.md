@@ -54,3 +54,6 @@ Queremos dar un agradecimiento gigantesco a los desarrolladores, creadores y rep
 - 🔸 **AP7 RHRacing** (v1.0)
   > *Agradecimientos al port original:* **GoodmanBCN**
 
+- 🔸 **Diablo** (v1.0)
+  > *Agradecimientos al port original:* **[DevilutionX](https://github.com/lantus/devilution-nx/)**
+
