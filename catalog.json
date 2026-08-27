@@ -142,14 +142,14 @@
         "sourceUrl": ""
     },
     {
-        "name": "devilutionx-switch",
-        "title": "DIABLO",
+        "name": "mari0",
+        "title": "Mari0",
         "category": "PC",
-        "developer": "DevilutionX",
+        "developer": "delsonazevedo",
         "version": "1.0",
-        "directDownloadUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/devilutionx-switch_Goonies.zip",
-        "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/devilutionx-switch.jpg?raw=true",
+        "directDownloadUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/mari0_Goonies.zip",
+        "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/mari0.jpg?raw=true",
         "description": "",
-        "sourceUrl": "https://github.com/lantus/devilution-nx/"
+        "sourceUrl": "https://github.com/delsonazevedo/mari0-switch"
     }
 ]
