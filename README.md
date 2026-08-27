@@ -48,3 +48,6 @@ Queremos dar un agradecimiento gigantesco a los desarrolladores, creadores y rep
 - 🔸 **Mari0** (v1.0)
   > *Agradecimientos al port original:* **[delsonazevedo](https://github.com/delsonazevedo/mari0-switch)**
 
+- 🔸 **Where's My Water** (v1.0)
+  > *Agradecimientos al port original:* **[ChanseyIsTheBest](https://github.com/ChanseyIsTheBest/wmw_nx)**
+
