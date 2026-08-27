@@ -36,3 +36,6 @@ Queremos dar un agradecimiento gigantesco a los desarrolladores, creadores y rep
 - 🔸 **Jetpack Joyride** (v1.0)
   > *Agradecimientos al port original:* **[NaGaa95](https://github.com/NaGaa95/jetpackjoyride_nx)**
 
+- 🔸 **SMB Remastered** (v1.0)
+  > *Agradecimientos al port original:* **Delson**
+
