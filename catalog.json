@@ -134,11 +134,11 @@
         "name": "angrybirds",
         "title": "Angry Birds Classic",
         "category": "Android",
-        "developer": "Chaseyls",
+        "developer": "Comunidad",
         "version": "1.0",
         "directDownloadUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/angrybirds_Goonies.zip",
         "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/angrybirdsclassic.jpg?raw=true",
         "description": "",
-        "sourceUrl": "https://github.com/ChanseyIsTheBest/angrybirdsclassic_nx"
+        "sourceUrl": ""
     }
 ]
