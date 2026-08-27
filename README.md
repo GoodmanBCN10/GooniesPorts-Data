@@ -15,7 +15,7 @@ Queremos dar un agradecimiento gigantesco a los desarrolladores, creadores y rep
 - 🔸 **Plants vs Zombies 2** (v1.0)
   > *Agradecimientos al port original:* **[xflipperkast](https://github.com/xflipperkast/PVZ2_NX)**
 
-- 🔸 **AP7 RHRacing** (v1.0)
+- 🔸 **AP7 Racing** (v1.0)
   > *Agradecimientos al port original:* **GoodmanBCN**
 
 - 🔸 **Banjo-Kazooie** (v1.0)
