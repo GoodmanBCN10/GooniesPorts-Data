@@ -96,5 +96,16 @@
         "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/TLOZ%20dusk.jpg?raw=true",
         "description": "",
         "sourceUrl": "https://github.com/HayatoG/dusklight/"
+    },
+    {
+        "name": "jetpackjoyride_nx",
+        "title": "Jetpack Joyride",
+        "category": "Android",
+        "developer": "NaGaa95",
+        "version": "1.0",
+        "directDownloadUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/jetpackjoyride_nx_Goonies.zip",
+        "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/icon.jpg?raw=true",
+        "description": "",
+        "sourceUrl": "https://github.com/NaGaa95/jetpackjoyride_nx"
     }
 ]
