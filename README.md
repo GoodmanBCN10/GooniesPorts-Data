@@ -39,3 +39,6 @@ Queremos dar un agradecimiento gigantesco a los desarrolladores, creadores y rep
 - 🔸 **SMB Remastered** (v1.0)
   > *Agradecimientos al port original:* **Delson**
 
+- 🔸 **NBA Jam** (v1.0)
+  > *Agradecimientos al port original:* **[delsonazevedo](https://github.com/delsonazevedo/nbajam_nx)**
+
