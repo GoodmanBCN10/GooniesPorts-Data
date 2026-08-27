@@ -118,5 +118,16 @@
         "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/supermariobrosresmastered.jpg?raw=true",
         "description": "",
         "sourceUrl": ""
+    },
+    {
+        "name": "nbajam_nx",
+        "title": "NBA Jam",
+        "category": "Android",
+        "developer": "delsonazevedo",
+        "version": "1.0",
+        "directDownloadUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/nbajam_nx_Goonies.zip",
+        "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/nbajam.jpg?raw=true",
+        "description": "",
+        "sourceUrl": "https://github.com/delsonazevedo/nbajam_nx"
     }
 ]
