@@ -33,3 +33,6 @@ Queremos dar un agradecimiento gigantesco a los desarrolladores, creadores y rep
 - 🔸 **TLOZ: Twilight Princess** (v1.0)
   > *Agradecimientos al port original:* **[HayatoG](https://github.com/HayatoG/dusklight/)**
 
+- 🔸 **Jetpack Joyride** (v1.0)
+  > *Agradecimientos al port original:* **[NaGaa95](https://github.com/NaGaa95/jetpackjoyride_nx)**
+
