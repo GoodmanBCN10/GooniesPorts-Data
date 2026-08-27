@@ -107,5 +107,16 @@
         "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/icon.jpg?raw=true",
         "description": "",
         "sourceUrl": "https://github.com/NaGaa95/jetpackjoyride_nx"
+    },
+    {
+        "name": "smbr_nx",
+        "title": "SMB Remastered",
+        "category": "Port",
+        "developer": "Delson",
+        "version": "1.0",
+        "directDownloadUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/smbr_nx_Goonies.zip",
+        "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/icon.jpg?raw=true",
+        "description": "",
+        "sourceUrl": ""
     }
 ]
