@@ -165,11 +165,11 @@
     },
     {
         "name": "switch",
-        "title": "AP7 RHR",
+        "title": "AP7 RHRacing",
         "category": "Android",
         "developer": "GoodmanBCN",
         "version": "1.0",
-        "directDownloadUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/retrohighwayracing.zip",
+        "directDownloadUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/switch_Goonies.zip",
         "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/ap7.jpg?raw=true",
         "description": "",
         "sourceUrl": ""
