@@ -151,5 +151,16 @@
         "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/mari0.jpg?raw=true",
         "description": "",
         "sourceUrl": "https://github.com/delsonazevedo/mari0-switch"
+    },
+    {
+        "name": "wmw_nx",
+        "title": "Where's My Water",
+        "category": "Android",
+        "developer": "ChanseyIsTheBest",
+        "version": "1.0",
+        "directDownloadUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/wmw_nx_Goonies.zip",
+        "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/wmw.jpg?raw=true",
+        "description": "",
+        "sourceUrl": "https://github.com/ChanseyIsTheBest/wmw_nx"
     }
 ]
