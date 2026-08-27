@@ -162,5 +162,16 @@
         "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/wmw.jpg?raw=true",
         "description": "",
         "sourceUrl": "https://github.com/ChanseyIsTheBest/wmw_nx"
+    },
+    {
+        "name": "switch",
+        "title": "AP7 RHR",
+        "category": "Android",
+        "developer": "GoodmanBCN",
+        "version": "1.0",
+        "directDownloadUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/retrohighwayracing.zip",
+        "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/ap7.jpg?raw=true",
+        "description": "",
+        "sourceUrl": ""
     }
 ]
