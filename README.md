@@ -45,6 +45,6 @@ Queremos dar un agradecimiento gigantesco a los desarrolladores, creadores y rep
 - 🔸 **Angry Birds Classic** (v1.0)
   > *Agradecimientos al port original:* **Comunidad**
 
-- 🔸 **DIABLO** (v1.0)
-  > *Agradecimientos al port original:* **[DevilutionX](https://github.com/lantus/devilution-nx/)**
+- 🔸 **Mari0** (v1.0)
+  > *Agradecimientos al port original:* **[delsonazevedo](https://github.com/delsonazevedo/mari0-switch)**
 
