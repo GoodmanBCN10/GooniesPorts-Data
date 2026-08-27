@@ -51,6 +51,6 @@ Queremos dar un agradecimiento gigantesco a los desarrolladores, creadores y rep
 - 🔸 **Where's My Water** (v1.0)
   > *Agradecimientos al port original:* **[ChanseyIsTheBest](https://github.com/ChanseyIsTheBest/wmw_nx)**
 
-- 🔸 **AP7 RHR** (v1.0)
+- 🔸 **AP7 RHRacing** (v1.0)
   > *Agradecimientos al port original:* **GoodmanBCN**
 
