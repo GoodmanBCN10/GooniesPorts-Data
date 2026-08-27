@@ -34,13 +34,14 @@
     },
     {
         "name": "retrohighwayracing",
-        "title": "AP7 Retro Highway Racing",
+        "title": "AP7 RHRacing",
         "category": "Android",
         "developer": "GoodmanBCN",
         "version": "1.0",
         "directDownloadUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/retrohighwayracing_Goonies.zip",
-        "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/AP7%20Retro%20Highway%20Racing%20Android.png?raw=true",
-        "description": ""
+        "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/ap7.jpg?raw=true",
+        "description": "",
+        "sourceUrl": ""
     },
     {
         "name": "Lighthouse",
@@ -173,16 +174,5 @@
         "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/ap7.jpg?raw=true",
         "description": "",
         "sourceUrl": ""
-    },
-    {
-        "name": "devilutionx-switch",
-        "title": "Diablo",
-        "category": "PC",
-        "developer": "DevilutionX",
-        "version": "1.0",
-        "directDownloadUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/devilutionx-switch_Goonies.zip",
-        "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/devilutionx-switch.jpg?raw=true",
-        "description": "",
-        "sourceUrl": "https://github.com/lantus/devilution-nx/"
     }
 ]
