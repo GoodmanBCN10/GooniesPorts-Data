@@ -99,14 +99,14 @@
     },
     {
         "name": "jetpackjoyride_nx",
-        "title": "Jetpack Joyride",
+        "title": "JetPack Joyride",
         "category": "Android",
-        "developer": "NaGaa95",
+        "developer": "Delson",
         "version": "1.0",
         "directDownloadUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/jetpackjoyride_nx_Goonies.zip",
-        "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/icon.jpg?raw=true",
+        "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/jetcpackjoyride.jpg?raw=true",
         "description": "",
-        "sourceUrl": "https://github.com/NaGaa95/jetpackjoyride_nx"
+        "sourceUrl": ""
     },
     {
         "name": "smbr_nx",
