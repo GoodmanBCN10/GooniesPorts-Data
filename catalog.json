@@ -174,5 +174,16 @@
         "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/devilutionx-switch.jpg?raw=true",
         "description": "",
         "sourceUrl": "https://github.com/lantus/devilution-nx/"
+    },
+    {
+        "name": "ctr_nx",
+        "title": "Cut The Rope",
+        "category": "Android",
+        "developer": "NaGaa95",
+        "version": "1.0",
+        "directDownloadUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/ctr_nx_Goonies.zip",
+        "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/CutTheRopeTeaser.jpg?raw=true",
+        "description": "",
+        "sourceUrl": "https://github.com/NaGaa95/ctr_nx"
     }
 ]
