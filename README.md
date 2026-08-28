@@ -66,8 +66,8 @@ Queremos dar un agradecimiento gigantesco a los desarrolladores, creadores y rep
 - 🔸 **GTA San Andreas** (v1.0)
   > *Agradecimientos al port original:* **[NaGaa95](https://github.com/NaGaa95/gtasa_nx)**
 
-- 🔸 **Castlevania Simphony of the Night** (v1.0)
-  > *Agradecimientos al port original:* **[NaGaa95](https://github.com/NaGaa95/coi_nx)**
+- 🔸 **Simphony of the Night** (v1.0)
+  > *Agradecimientos al port original:* **[NaGaa95](https://github.com/NaGaa95/sotn_nx)**
 
 - 🔸 **After Burner Climax** (v1.0)
   > *Agradecimientos al port original:* **[NaGaa95](https://github.com/NaGaa95/abc_nx)**
