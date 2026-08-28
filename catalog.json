@@ -196,5 +196,16 @@
         "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/hitmango.jpg?raw=true",
         "description": "",
         "sourceUrl": "https://github.com/ChanseyIsTheBest/hitmango_nx"
+    },
+    {
+        "name": "css_nx",
+        "title": "Counter Strike Source",
+        "category": "Android",
+        "developer": "NaGaa95",
+        "version": "1.0",
+        "directDownloadUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/css_nx_part1.zip,https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/css_nx_part2.zip,https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/css_nx_part3.zip,https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/css_nx_part4.zip",
+        "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/Counter_Strike_Source.jpg?raw=true",
+        "description": "",
+        "sourceUrl": "https://github.com/NaGaa95/css_nx"
     }
 ]
