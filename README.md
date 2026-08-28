@@ -64,7 +64,7 @@ Queremos dar un agradecimiento gigantesco a los desarrolladores, creadores y rep
   > *Agradecimientos al port original:* **[NaGaa95](https://github.com/NaGaa95/css_nx)**
 
 - 🔸 **GTA San Andreas** (v1.0)
-  > *Agradecimientos al port original:* **[NaGaa95](https://github.com/NaGaa95/gtasa_nx)**
+  > *Agradecimientos al port original:* **[Comunidad](https://github.com/NaGaa95/gtasa_nx)**
 
 - 🔸 **Simphony of the Night** (v1.0)
   > *Agradecimientos al port original:* **[NaGaa95](https://github.com/NaGaa95/sotn_nx)**
