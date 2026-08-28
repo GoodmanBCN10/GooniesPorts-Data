@@ -57,3 +57,6 @@ Queremos dar un agradecimiento gigantesco a los desarrolladores, creadores y rep
 - 🔸 **Cut The Rope** (v1.0)
   > *Agradecimientos al port original:* **[NaGaa95](https://github.com/NaGaa95/ctr_nx)**
 
+- 🔸 **Hitman Go** (v1.0)
+  > *Agradecimientos al port original:* **[ChanseyIsTheBest](https://github.com/ChanseyIsTheBest/hitmango_nx)**
+
