@@ -185,5 +185,16 @@
         "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/CutTheRopeTeaser.jpg?raw=true",
         "description": "",
         "sourceUrl": "https://github.com/NaGaa95/ctr_nx"
+    },
+    {
+        "name": "hitmango",
+        "title": "Hitman Go",
+        "category": "Android",
+        "developer": "ChanseyIsTheBest",
+        "version": "1.0",
+        "directDownloadUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/hitmango_Goonies.zip",
+        "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/hitmango.jpg?raw=true",
+        "description": "",
+        "sourceUrl": "https://github.com/ChanseyIsTheBest/hitmango_nx"
     }
 ]
