@@ -69,6 +69,6 @@ Queremos dar un agradecimiento gigantesco a los desarrolladores, creadores y rep
 - 🔸 **Castlevania Simphony of the Night** (v1.0)
   > *Agradecimientos al port original:* **[NaGaa95](https://github.com/NaGaa95/coi_nx)**
 
-- 🔸 **Lego Batman 3 Beyond Gotham** (v1.0)
-  > *Agradecimientos al port original:* **[NaGaa95](https://github.com/NaGaa95/lbbg_nx)**
+- 🔸 **After Burner Climax** (v1.0)
+  > *Agradecimientos al port original:* **[NaGaa95](https://github.com/NaGaa95/abc_nx)**
 
