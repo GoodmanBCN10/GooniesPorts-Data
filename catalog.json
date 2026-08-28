@@ -207,5 +207,16 @@
         "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/Counter_Strike_Source.jpg?raw=true",
         "description": "",
         "sourceUrl": "https://github.com/NaGaa95/css_nx"
+    },
+    {
+        "name": "gtasa",
+        "title": "GTA San Andreas",
+        "category": "Android",
+        "developer": "NaGaa95",
+        "version": "1.0",
+        "directDownloadUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/gtasa_part1.zip,https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/gtasa_part2.zip",
+        "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/gtasa.jpg?raw=true",
+        "description": "",
+        "sourceUrl": "https://github.com/NaGaa95/gtasa_nx"
     }
 ]
