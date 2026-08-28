@@ -231,14 +231,14 @@
         "sourceUrl": "https://github.com/NaGaa95/coi_nx"
     },
     {
-        "name": "lbbg_nx",
-        "title": "Lego Batman 3 Beyond Gotham",
+        "name": "abc",
+        "title": "After Burner Climax",
         "category": "Android",
         "developer": "NaGaa95",
         "version": "1.0",
-        "directDownloadUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/lbbg_nx_Goonies.zip",
-        "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/lbbg.jpg?raw=true",
+        "directDownloadUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/abc_Goonies.zip",
+        "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/abc.jpg?raw=true",
         "description": "",
-        "sourceUrl": "https://github.com/NaGaa95/lbbg_nx"
+        "sourceUrl": "https://github.com/NaGaa95/abc_nx"
     }
 ]
