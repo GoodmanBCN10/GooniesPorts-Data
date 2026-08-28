@@ -221,14 +221,14 @@
     },
     {
         "name": "sotn",
-        "title": "Castlevania Simphony of the Night",
+        "title": "Simphony of the Night",
         "category": "Android",
         "developer": "NaGaa95",
         "version": "1.0",
         "directDownloadUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/sotn_Goonies.zip",
         "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/sotn.jpg?raw=true",
         "description": "",
-        "sourceUrl": "https://github.com/NaGaa95/coi_nx"
+        "sourceUrl": "https://github.com/NaGaa95/sotn_nx"
     },
     {
         "name": "abc",
