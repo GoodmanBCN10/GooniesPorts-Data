@@ -51,9 +51,9 @@ Queremos dar un agradecimiento gigantesco a los desarrolladores, creadores y rep
 - 🔸 **Where's My Water** (v1.0)
   > *Agradecimientos al port original:* **[ChanseyIsTheBest](https://github.com/ChanseyIsTheBest/wmw_nx)**
 
-- 🔸 **AP7 RHRacing** (v1.0)
-  > *Agradecimientos al port original:* **GoodmanBCN**
-
 - 🔸 **Diablo** (v1.0)
   > *Agradecimientos al port original:* **[DevilutionX](https://github.com/lantus/devilution-nx/)**
+
+- 🔸 **Cut The Rope** (v1.0)
+  > *Agradecimientos al port original:* **[NaGaa95](https://github.com/NaGaa95/ctr_nx)**
 
