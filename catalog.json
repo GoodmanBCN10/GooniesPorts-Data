@@ -242,14 +242,14 @@
         "sourceUrl": "https://github.com/NaGaa95/abc_nx"
     },
     {
-        "name": "Silent_Hill",
-        "title": "Silent Hill",
-        "category": "PC",
-        "developer": "ChaykaDed",
+        "name": "s4ep2",
+        "title": "Sonic 4 Episodio 2",
+        "category": "Android",
+        "developer": "boraeskicioglu",
         "version": "1.0",
-        "directDownloadUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/Silent_Hill_Goonies.zip",
-        "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/Silent_Hill.jpg?raw=true",
+        "directDownloadUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/s4ep2_Goonies.zip",
+        "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/s4ep2.jpg?raw=true",
         "description": "",
-        "sourceUrl": "https://github.com/ChaykaDed/silent-hill-decomp-nx/"
+        "sourceUrl": "https://github.com/boraeskicioglu/s4ep2-nx"
     }
 ]
