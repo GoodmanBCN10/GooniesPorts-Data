@@ -262,5 +262,16 @@
         "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/lbbg.jpg?raw=true",
         "description": "",
         "sourceUrl": "https://github.com/NaGaa95/lbbg_nx"
+    },
+    {
+        "name": "Silent_Hill",
+        "title": "Silent Hill",
+        "category": "PC",
+        "developer": "ChaykaDed",
+        "version": "1.0",
+        "directDownloadUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/Silent_Hill_Goonies.zip",
+        "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/Silent_Hill.jpg?raw=true",
+        "description": "",
+        "sourceUrl": "https://github.com/ChaykaDed/silent-hill-decomp-nx/"
     }
 ]
