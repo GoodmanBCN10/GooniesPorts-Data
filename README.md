@@ -81,3 +81,6 @@ Queremos dar un agradecimiento gigantesco a los desarrolladores, creadores y rep
 - 🔸 **Silent Hill** (v1.0)
   > *Agradecimientos al port original:* **[ChaykaDed](https://github.com/ChaykaDed/silent-hill-decomp-nx/)**
 
+- 🔸 **The Legend of Zelda: Dungeons of Infinity** (v1.0)
+  > *Agradecimientos al port original:* **Switch Scene**
+
