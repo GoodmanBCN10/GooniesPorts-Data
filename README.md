@@ -78,3 +78,6 @@ Queremos dar un agradecimiento gigantesco a los desarrolladores, creadores y rep
 - 🔸 **LEGO Batman Beyond Gotham** (v1.0)
   > *Agradecimientos al port original:* **[NaGaa95](https://github.com/NaGaa95/lbbg_nx)**
 
+- 🔸 **Silent Hill** (v1.0)
+  > *Agradecimientos al port original:* **[ChaykaDed](https://github.com/ChaykaDed/silent-hill-decomp-nx/)**
+
