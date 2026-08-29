@@ -75,3 +75,6 @@ Queremos dar un agradecimiento gigantesco a los desarrolladores, creadores y rep
 - 🔸 **Sonic 4 Episodio 2** (v1.0)
   > *Agradecimientos al port original:* **[boraeskicioglu](https://github.com/boraeskicioglu/s4ep2-nx)**
 
+- 🔸 **LEGO Batman Boyond Gotham** (v1.0)
+  > *Agradecimientos al port original:* **[NaGaa95](https://github.com/NaGaa95/lbbg_nx)**
+
