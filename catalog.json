@@ -251,5 +251,16 @@
         "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/s4ep2.jpg?raw=true",
         "description": "",
         "sourceUrl": "https://github.com/boraeskicioglu/s4ep2-nx"
+    },
+    {
+        "name": "lbbg_nx",
+        "title": "LEGO Batman Boyond Gotham",
+        "category": "Android",
+        "developer": "NaGaa95",
+        "version": "1.0",
+        "directDownloadUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/lbbg_nx_Goonies.zip",
+        "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/lbbg.jpg?raw=true",
+        "description": "",
+        "sourceUrl": "https://github.com/NaGaa95/lbbg_nx"
     }
 ]
