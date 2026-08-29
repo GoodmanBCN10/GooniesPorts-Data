@@ -284,5 +284,16 @@
         "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/Zelda_Dungeons.jpg?raw=true",
         "description": "",
         "sourceUrl": ""
+    },
+    {
+        "name": "lnsor",
+        "title": "Lego Ninja Shadow of Ronin",
+        "category": "Android",
+        "developer": "NaGaa95",
+        "version": "1.0",
+        "directDownloadUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/lnsor_Goonies.zip",
+        "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/lnsor.jpg?raw=true",
+        "description": "",
+        "sourceUrl": "https://github.com/NaGaa95/lnsor_nx"
     }
 ]
