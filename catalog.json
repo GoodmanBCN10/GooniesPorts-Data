@@ -273,5 +273,16 @@
         "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/Silent_Hill.jpg?raw=true",
         "description": "",
         "sourceUrl": "https://github.com/ChaykaDed/silent-hill-decomp-nx/"
+    },
+    {
+        "name": "Zelda_Dungeons",
+        "title": "The Legend of Zelda: Dungeons of Infinity",
+        "category": "Nintendo 64",
+        "developer": "Switch Scene",
+        "version": "1.0",
+        "directDownloadUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/Zelda_Dungeons_Goonies.zip",
+        "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/Zelda_Dungeons.jpg?raw=true",
+        "description": "",
+        "sourceUrl": ""
     }
 ]
