@@ -645,7 +645,19 @@
         "version": "1.0",
         "directDownloadUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/Zelda_FINAL.zip",
         "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/TLOZ%20dusk.jpg?raw=true",
-        "description": "",
-        "sourceUrl": "https://github.com/HayatoG/dusklight/"
+        "description": "When an evil darkness enshrouds the land of Hyrule, a young farm boy\nnamed Link must awaken the hero – and the animal – within. When Link\ntravels to the Twilight Realm, he transforms into a wolf and must scour\nthe land with the help of a mysterious girl named Midna. Besides his\ntrusty sword and shield, Link will use his bow and arrows by aiming with\nthe Wii Remote controller, fight while on horseback and use a wealth of\nother items, both new and old.\n\nThe Legend of Zelda: Twilight Princess is part of the Nintendo\nSelects family of games—great titles enjoyed by millions, now a great\nvalue at just $19.99 MSRP* each.\n\nFeatures\n\nArm Link: The Wii Remote and Nunchuk controllers are used for a\nvariety of game activities from fishing to projectile-weapon aiming.\nThe game features incredibly precise aiming control using the Wii\nRemote controller. Use the controllers for sword swings, spin attacks\nand shield shoves.\n\nThrilling Adventure: Players ride into battle against troops of\nfoul creatures and wield a sword and shield with the Wii Remote and\nNunchuk controllers, then take on massive bosses that must be seen to\nbe believed.\n\nMind & Muscle: Many puzzles stand between Link and the\nfulfillment of his quest, so players must sharpen their wits as they\nhunt for weapons and items.\n\n*MSRP: Manufacturer's Suggested Retail Price. Actual price may vary. See\nretailer for details.",
+        "sourceUrl": "https://github.com/HayatoG/dusklight/",
+        "size": 956826564,
+        "publisher": "Nintendo",
+        "genre": "Action, RPG",
+        "year": "2006",
+        "screenshots": [
+            "https://media.rawg.io/media/screenshots/e9e/e9e7d1b82c9b6283a5dcfc884fad318c.jpg",
+            "https://media.rawg.io/media/screenshots/459/459b9e27b1490254c78a1926e55e5c68.jpg",
+            "https://media.rawg.io/media/screenshots/d07/d07efee9b28bfc7725ee1d6928917757.jpg",
+            "https://media.rawg.io/media/screenshots/cb7/cb75a188c2591b2c626048db6190feb2.jpg",
+            "https://media.rawg.io/media/screenshots/af4/af4efc6ddfc8c47b64cfe7388894a75f.jpg",
+            "https://media.rawg.io/media/screenshots/4c4/4c4c850cc5f00781afa34866e237fc55.jpg"
+        ]
     }
 ]
