@@ -590,5 +590,16 @@
             "https://media.rawg.io/media/screenshots/373/3734d25a5c982383153f47a9c8f3f390.jpg",
             "https://media.rawg.io/media/screenshots/20d/20dff9a0690879a82873c66c48bb8818.jpg"
         ]
+    },
+    {
+        "name": "lswtcs",
+        "title": "LEGO Star Wars The Complet Saga",
+        "category": "Android",
+        "developer": "NaGaa95",
+        "version": "1.0",
+        "directDownloadUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/lswtcs_Goonies.zip",
+        "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/lswtcs.jpg?raw=true",
+        "description": "",
+        "sourceUrl": "https://github.com/NaGaa95/lswtcs_nx"
     }
 ]
