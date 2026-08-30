@@ -87,3 +87,6 @@ Queremos dar un agradecimiento gigantesco a los desarrolladores, creadores y rep
 - 🔸 **Lego Ninja Shadow of Ronin** (v1.0)
   > *Agradecimientos al port original:* **[NaGaa95](https://github.com/NaGaa95/lnsor_nx)**
 
+- 🔸 **LEGO Star Wars The Complet Saga** (v1.0)
+  > *Agradecimientos al port original:* **[NaGaa95](https://github.com/NaGaa95/lswtcs_nx)**
+
