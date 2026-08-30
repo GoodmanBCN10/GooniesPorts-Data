@@ -636,5 +636,16 @@
             "https://media.rawg.io/media/screenshots/48b/48b7260ca22902ce8c4bb4b477344986.jpg",
             "https://media.rawg.io/media/screenshots/51a/51a7523bd13842fed69a8d92eb360b1a.jpg"
         ]
+    },
+    {
+        "name": "TwilitRealm",
+        "title": "TLOZ Twilight Princess DUSK",
+        "category": "GameCube",
+        "developer": "HayatoG",
+        "version": "1.0",
+        "directDownloadUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/ZeldaTwilightPrincess.zip",
+        "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/TLOZ%20dusk.jpg?raw=true",
+        "description": "",
+        "sourceUrl": "https://github.com/HayatoG/dusklight/"
     }
 ]
