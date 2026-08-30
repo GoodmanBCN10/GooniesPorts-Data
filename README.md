@@ -87,8 +87,8 @@ Queremos dar un agradecimiento gigantesco a los desarrolladores, creadores y rep
 - 🔸 **Lego Ninja Shadow of Ronin** (v1.0)
   > *Agradecimientos al port original:* **[NaGaa95](https://github.com/NaGaa95/lnsor_nx)**
 
-- 🔸 **LEGO Star Wars The Complet Saga** (v1.0)
-  > *Agradecimientos al port original:* **[Comunidad](https://github.com/NaGaa95/lswtcs_nx)**
+- 🔸 **LEGO Star Wars The Complete Saga** (v1.0)
+  > *Agradecimientos al port original:* **[NaGaa95](https://github.com/NaGaa95/lswtcs_nx)**
 
 - 🔸 **The Simpsons Hit and Run** (v1.0)
   > *Agradecimientos al port original:* **[ZeroArrows](https://github.com/ZenoArrows/The-Simpsons-Hit-and-Run/)**
