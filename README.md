@@ -88,7 +88,7 @@ Queremos dar un agradecimiento gigantesco a los desarrolladores, creadores y rep
   > *Agradecimientos al port original:* **[NaGaa95](https://github.com/NaGaa95/lnsor_nx)**
 
 - 🔸 **LEGO Star Wars The Complet Saga** (v1.0)
-  > *Agradecimientos al port original:* **[NaGaa95](https://github.com/NaGaa95/lswtcs_nx)**
+  > *Agradecimientos al port original:* **[Comunidad](https://github.com/NaGaa95/lswtcs_nx)**
 
 - 🔸 **The Simpsons Hit & Run** (v1.0)
   > *Agradecimientos al port original:* **[ZeroArrows](https://github.com/ZenoArrows/The-Simpsons-Hit-and-Run/)**
