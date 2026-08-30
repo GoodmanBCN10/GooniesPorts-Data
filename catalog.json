@@ -606,11 +606,11 @@
         "name": "simpsons",
         "title": "The Simpsons Hit and Run",
         "category": "PC",
-        "developer": "ZeroArrows",
+        "developer": "NaGaa95",
         "version": "1.0",
         "directDownloadUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/TheSimpsons_NUEVO.zip",
         "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/The%20Simpsons%20Hit%20and%20Run.jpg?raw=true",
         "description": "",
-        "sourceUrl": "https://github.com/ZenoArrows/The-Simpsons-Hit-and-Run/"
+        "sourceUrl": "https://github.com/NaGaa95/lswtcs_nx"
     }
 ]
