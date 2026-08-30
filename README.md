@@ -93,6 +93,6 @@ Queremos dar un agradecimiento gigantesco a los desarrolladores, creadores y rep
 - 🔸 **The Simpsons Hit and Run** (v1.0)
   > *Agradecimientos al port original:* **[ZeroArrows](https://github.com/ZenoArrows/The-Simpsons-Hit-and-Run/)**
 
-- 🔸 **TLOZ Twilight Princess DUSK** (v1.0)
+- 🔸 **TLOZ Twilight Princess Dusk** (v1.0)
   > *Agradecimientos al port original:* **[HayatoG](https://github.com/HayatoG/dusklight/)**
 
