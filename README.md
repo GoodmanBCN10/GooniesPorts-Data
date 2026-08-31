@@ -20,6 +20,7 @@ Queremos dar un agradecimiento gigantesco a los desarrolladores, creadores y rep
 
 - 🔸 **Banjo-Kazooie** (v1.0)
   > *Agradecimientos al port original:* **[PalindromicBreadLoaf](https://github.com/PalindromicBreadLoaf/Docklight)**
+  > *Agradecimientos a la adaptación:* **Luigi-Switch Scene**
 
 - 🔸 **Street of Rage X** (v1.0)
   > *Agradecimientos al port original:* **[delsonazevedo](https://github.com/delsonazevedo/sorx_nx)**
