@@ -85,23 +85,11 @@
         "title": "Banjo-Kazooie",
         "category": "Nintendo 64",
         "developer": "PalindromicBreadLoaf",
-        "sourceUrl": "https://github.com/PalindromicBreadLoaf/Docklight",
         "version": "1.0",
-        "directDownloadUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/Lighthouse_Goonies.zip",
-        "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/banjo-kazooie_n64.jpg?raw=true",
-        "description": "The bear and bird's first ever outing available in full. Loads of rollicking fun to be had here and with the legendary Stop N Swop feature reinstated. You’ll never look the same again at a jigsaw.",
-        "size": 317449398,
-        "publisher": "Microsoft Studios, Nintendo",
-        "genre": "Action, Adventure, Puzzle, Platformer",
-        "year": "1998",
-        "screenshots": [
-            "https://media.rawg.io/media/screenshots/f65/f655eb472abd96de07157d6e8232d1bf.jpg",
-            "https://media.rawg.io/media/screenshots/587/58786e9bd531ecddb4d447667e5835df.jpg",
-            "https://media.rawg.io/media/screenshots/3b4/3b4fbfe167e6009097c62ddcc3aa908b.jpg",
-            "https://media.rawg.io/media/screenshots/65d/65d8aac1acd3cdfbc4fb015afb88b15d.jpg",
-            "https://media.rawg.io/media/screenshots/044/044ce9f375947c54e8d636c270cd17fa.jpg",
-            "https://media.rawg.io/media/screenshots/78b/78b5832c15d144cd40194936166998d1.jpg"
-        ]
+        "directDownloadUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/BanjoKazooie.zip",
+        "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/banjo-kazooie.jpg?raw=true",
+        "description": "",
+        "sourceUrl": "https://github.com/PalindromicBreadLoaf/Docklight"
     },
     {
         "name": "sorx_nx",
