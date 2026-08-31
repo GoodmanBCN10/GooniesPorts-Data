@@ -24,14 +24,8 @@ Queremos dar un agradecimiento gigantesco a los desarrolladores, creadores y rep
 - 🔸 **Street of Rage X** (v1.0)
   > *Agradecimientos al port original:* **[delsonazevedo](https://github.com/delsonazevedo/sorx_nx)**
 
-- 🔸 **Unreal Gold** (v1.0)
-  > *Agradecimientos al port original:* **[Nintendo Switch Scene](Nintendo Switch Scene)**
-
 - 🔸 **Super Mario World Remastered** (v1.0)
   > *Agradecimientos al port original:* **[delsonazevedo](https://github.com/delsonazevedo/Super-Mario-World-Remastered-Plus-Switch)**
-
-- 🔸 **TLOZ: Twilight Princess** (v1.0)
-  > *Agradecimientos al port original:* **[HayatoG](https://github.com/HayatoG/dusklight/)**
 
 - 🔸 **JetPack Joyride** (v1.0)
   > *Agradecimientos al port original:* **Delson**
@@ -96,7 +90,7 @@ Queremos dar un agradecimiento gigantesco a los desarrolladores, creadores y rep
 - 🔸 **TLOZ Twilight Princess Dusk** (v1.0)
   > *Agradecimientos al port original:* **[HayatoG](https://github.com/HayatoG/dusklight/)**
 
-- 🔸 **StarFox** (v1.0)
+- 🔸 **Star Fox** (v1.0)
   > *Agradecimientos al port original:* **[HarbourMasters](https://github.com/HarbourMasters/Starship/)**
 
 - 🔸 **Disney Castle of Illusion** (v1.0)
