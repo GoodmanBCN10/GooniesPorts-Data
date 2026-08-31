@@ -88,8 +88,20 @@
         "version": "1.0",
         "directDownloadUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/BanjoKazooie.zip",
         "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/banjo-kazooie.jpg?raw=true",
-        "description": "",
-        "sourceUrl": "https://github.com/PalindromicBreadLoaf/Docklight"
+        "description": "The bear and bird's first ever outing available in full. Loads of rollicking fun to be had here and with the legendary Stop N Swop feature reinstated. You’ll never look the same again at a jigsaw.",
+        "sourceUrl": "https://github.com/PalindromicBreadLoaf/Docklight",
+        "size": 79249540,
+        "publisher": "Microsoft Studios, Nintendo",
+        "genre": "Action, Adventure, Puzzle, Platformer",
+        "year": "1998",
+        "screenshots": [
+            "https://media.rawg.io/media/screenshots/f65/f655eb472abd96de07157d6e8232d1bf.jpg",
+            "https://media.rawg.io/media/screenshots/587/58786e9bd531ecddb4d447667e5835df.jpg",
+            "https://media.rawg.io/media/screenshots/3b4/3b4fbfe167e6009097c62ddcc3aa908b.jpg",
+            "https://media.rawg.io/media/screenshots/65d/65d8aac1acd3cdfbc4fb015afb88b15d.jpg",
+            "https://media.rawg.io/media/screenshots/044/044ce9f375947c54e8d636c270cd17fa.jpg",
+            "https://media.rawg.io/media/screenshots/78b/78b5832c15d144cd40194936166998d1.jpg"
+        ]
     },
     {
         "name": "sorx_nx",
@@ -656,8 +668,19 @@
         "version": "1.0",
         "directDownloadUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/Star_Fox_Goonies.zip",
         "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/Star_Fox.jpg?raw=true",
-        "description": "",
-        "sourceUrl": "https://github.com/HarbourMasters/Starship/"
+        "description": "Starfox is a video game that was published by Ariolasoft on their Reaktor label in 1987 for the ZX Spectrum, Commodore 64, and Amstrad CPC. The player assumes the role of Hawkins, a space fighter pilot charged with protecting the Hyturian star system from invading alien forces. The game uses wireframe and shaded vector graphics to depict combat, in a similar fashion to games such as Elite and Starstrike 2, which was also created by Realtime Games. Ariolosoft had previously published the Electronic Arts titles Skyfox and Arcticfox and the name was chosen to build on the success of those titles. The US Commodore 64 release was titled The Rubicon Alliance.",
+        "sourceUrl": "https://github.com/HarbourMasters/Starship/",
+        "size": 29,
+        "publisher": "Ariolasoft, Reaktor",
+        "year": "1987",
+        "screenshots": [
+            "https://media.rawg.io/media/screenshots/5ad/5ad0dfeca01f838833983e362cd1d10a.jpg",
+            "https://media.rawg.io/media/screenshots/5e9/5e964264ff3726adbd9f34c8bc77b84b.jpg",
+            "https://media.rawg.io/media/screenshots/4fc/4fcd67267cb1b97cbadb32af90ea1a1c.jpg",
+            "https://media.rawg.io/media/screenshots/803/803abeb640e30c92aea50fa7def509c7.jpg",
+            "https://media.rawg.io/media/screenshots/62d/62d0ee5b4563d19b5ab484a5a907ad79.jpg",
+            "https://media.rawg.io/media/screenshots/904/9042a11ef44860b2adc53bcae7440ce1.jpg"
+        ]
     },
     {
         "name": "coi",
@@ -667,7 +690,19 @@
         "version": "1.0",
         "directDownloadUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/coi_Goonies.zip",
         "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/coi.jpg?raw=true",
-        "description": "",
-        "sourceUrl": "https://github.com/NaGaa95/coi_nx"
+        "description": "PLAY AS MICKEY IN THIS MAGICAL DISNEY ADVENTURE! ALL-NEW HD GRAPHICS AND GAMEPLAY!\nThis app is optimized for iPhone 4S/iPad3 and above.\nMickey Mouse returns to star in Castle of Illusion, a fantastical reimagining of the Sega Genesis classic. When the evil witch Mizrabel kidnaps Minnie, it’s up to Mickey to brave the dangers of the Castle of Illusions to rescue Minnie.  Gather your courage and traverse enchanted forests, take on hordes of rebellious toys and navigate mazes of living books.  Play as Mickey and save Minnie from Mizrabel’s evil clutches!\nGAME FEATURES –\n-Play as Mickey Mouse in this reimagining of the classic Sega Genesis/Mega Drive game!\n-Experience a world of wonder, brought to life with all-new graphics and magical adventures!\n-Journey across five magical worlds filled with Mizrabel’s powerful minions!\n-Complete hidden challenges to customize Mickey with classic costumes!\nFor additional information about our practices in the United States and Latin America regarding children’s personal information, please read our Children’s Privacy Policy  at https://disneyprivacycenter.com/kids-privacy-policy/english/.",
+        "sourceUrl": "https://github.com/NaGaa95/coi_nx",
+        "size": 633080747,
+        "publisher": "SEGA, Feral Interactive, Disney Interactive",
+        "genre": "Action, Adventure, RPG, Arcade, Platformer",
+        "year": "2013",
+        "screenshots": [
+            "https://media.rawg.io/media/screenshots/38c/38c888f2b7c771192108167b72e6e590.jpg",
+            "https://media.rawg.io/media/screenshots/189/189476f13908d701eb8f0859379db06f.jpg",
+            "https://media.rawg.io/media/screenshots/a2c/a2cdafb28d96b766c3e0f0f6fec2ffac.jpg",
+            "https://media.rawg.io/media/screenshots/5f4/5f47a765f7627cd18590418f62b424e8.jpg",
+            "https://media.rawg.io/media/screenshots/94f/94f92380cc65da44d826447c08281daf.jpg",
+            "https://media.rawg.io/media/screenshots/457/457699cda6be26be13c27b2742f5d919.jpg"
+        ]
     }
 ]
