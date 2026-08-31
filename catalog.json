@@ -88,8 +88,20 @@
         "version": "1.0",
         "directDownloadUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/BanjoKazooie.zip",
         "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/banjo-kazooie.jpg?raw=true",
-        "description": "",
-        "sourceUrl": "https://github.com/PalindromicBreadLoaf/Docklight"
+        "description": "The bear and bird's first ever outing available in full. Loads of rollicking fun to be had here and with the legendary Stop N Swop feature reinstated. You’ll never look the same again at a jigsaw.",
+        "sourceUrl": "https://github.com/PalindromicBreadLoaf/Docklight",
+        "size": 79249540,
+        "publisher": "Microsoft Studios, Nintendo",
+        "genre": "Action, Adventure, Puzzle, Platformer",
+        "year": "1998",
+        "screenshots": [
+            "https://media.rawg.io/media/screenshots/f65/f655eb472abd96de07157d6e8232d1bf.jpg",
+            "https://media.rawg.io/media/screenshots/587/58786e9bd531ecddb4d447667e5835df.jpg",
+            "https://media.rawg.io/media/screenshots/3b4/3b4fbfe167e6009097c62ddcc3aa908b.jpg",
+            "https://media.rawg.io/media/screenshots/65d/65d8aac1acd3cdfbc4fb015afb88b15d.jpg",
+            "https://media.rawg.io/media/screenshots/044/044ce9f375947c54e8d636c270cd17fa.jpg",
+            "https://media.rawg.io/media/screenshots/78b/78b5832c15d144cd40194936166998d1.jpg"
+        ]
     },
     {
         "name": "sorx_nx",
@@ -609,9 +621,21 @@
         "developer": "HarbourMasters",
         "version": "1.0",
         "directDownloadUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/Star_Fox_Goonies.zip",
-        "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/Star_Fox.jpg?raw=true",
-        "description": "",
-        "sourceUrl": "https://github.com/HarbourMasters/Starship/"
+        "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/StarFox.jpg?raw=true",
+        "description": "After being banished from planet Corneria, the evil scientist Andross declares war on the entire Lylat System. The commanding officer of Corneria's defence force, summons the elite mercenary team Star Fox to defeat Andross.",
+        "sourceUrl": "https://github.com/HarbourMasters/Starship/",
+        "size": 71385247,
+        "publisher": "Nintendo",
+        "genre": "Shooter",
+        "year": "1993",
+        "screenshots": [
+            "https://media.rawg.io/media/screenshots/671/6719b69315712bebdf50cf60e486ca94.jpg",
+            "https://media.rawg.io/media/screenshots/cfc/cfce14ad0c78d088c917da7fca294047.jpg",
+            "https://media.rawg.io/media/screenshots/60b/60b8e4e5282d529a04d3fe1a496586c9.jpg",
+            "https://media.rawg.io/media/screenshots/2de/2de12c5bdcec08fea0d66fdf7b835840.jpg",
+            "https://media.rawg.io/media/screenshots/c0f/c0f8478c92cad1d85a321582da39ed14.jpg",
+            "https://media.rawg.io/media/screenshots/0b2/0b2e91a667a5316e7e093addb63ce3f6.jpg"
+        ]
     },
     {
         "name": "coi",
@@ -621,7 +645,19 @@
         "version": "1.0",
         "directDownloadUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/coi_Goonies.zip",
         "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/coi.jpg?raw=true",
-        "description": "",
-        "sourceUrl": "https://github.com/NaGaa95/coi_nx"
+        "description": "PLAY AS MICKEY IN THIS MAGICAL DISNEY ADVENTURE! ALL-NEW HD GRAPHICS AND GAMEPLAY!\nThis app is optimized for iPhone 4S/iPad3 and above.\nMickey Mouse returns to star in Castle of Illusion, a fantastical reimagining of the Sega Genesis classic. When the evil witch Mizrabel kidnaps Minnie, it’s up to Mickey to brave the dangers of the Castle of Illusions to rescue Minnie.  Gather your courage and traverse enchanted forests, take on hordes of rebellious toys and navigate mazes of living books.  Play as Mickey and save Minnie from Mizrabel’s evil clutches!\nGAME FEATURES –\n-Play as Mickey Mouse in this reimagining of the classic Sega Genesis/Mega Drive game!\n-Experience a world of wonder, brought to life with all-new graphics and magical adventures!\n-Journey across five magical worlds filled with Mizrabel’s powerful minions!\n-Complete hidden challenges to customize Mickey with classic costumes!\nFor additional information about our practices in the United States and Latin America regarding children’s personal information, please read our Children’s Privacy Policy  at https://disneyprivacycenter.com/kids-privacy-policy/english/.",
+        "sourceUrl": "https://github.com/NaGaa95/coi_nx",
+        "size": 633080747,
+        "publisher": "SEGA, Feral Interactive, Disney Interactive",
+        "genre": "Action, Adventure, RPG, Arcade, Platformer",
+        "year": "2013",
+        "screenshots": [
+            "https://media.rawg.io/media/screenshots/38c/38c888f2b7c771192108167b72e6e590.jpg",
+            "https://media.rawg.io/media/screenshots/189/189476f13908d701eb8f0859379db06f.jpg",
+            "https://media.rawg.io/media/screenshots/a2c/a2cdafb28d96b766c3e0f0f6fec2ffac.jpg",
+            "https://media.rawg.io/media/screenshots/5f4/5f47a765f7627cd18590418f62b424e8.jpg",
+            "https://media.rawg.io/media/screenshots/94f/94f92380cc65da44d826447c08281daf.jpg",
+            "https://media.rawg.io/media/screenshots/457/457699cda6be26be13c27b2742f5d919.jpg"
+        ]
     }
 ]
