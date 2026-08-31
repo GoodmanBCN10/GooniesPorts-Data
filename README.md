@@ -96,3 +96,6 @@ Queremos dar un agradecimiento gigantesco a los desarrolladores, creadores y rep
 - 🔸 **TLOZ Twilight Princess Dusk** (v1.0)
   > *Agradecimientos al port original:* **[HayatoG](https://github.com/HayatoG/dusklight/)**
 
+- 🔸 **StarFox** (v1.0)
+  > *Agradecimientos al port original:* **[HarbourMasters](https://github.com/HarbourMasters/Starship/)**
+
