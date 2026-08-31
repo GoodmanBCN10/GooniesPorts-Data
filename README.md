@@ -20,8 +20,6 @@ Queremos dar un agradecimiento gigantesco a los desarrolladores, creadores y rep
 
 - 🔸 **Banjo-Kazooie** (v1.0)
   > *Agradecimientos al port original:* **[PalindromicBreadLoaf](https://github.com/PalindromicBreadLoaf/Docklight)**
-  > 
-  > *Agradecimientos a la adaptación:* **Luigi-Switch Scene**
 
 - 🔸 **Street of Rage X** (v1.0)
   > *Agradecimientos al port original:* **[delsonazevedo](https://github.com/delsonazevedo/sorx_nx)**
@@ -100,4 +98,7 @@ Queremos dar un agradecimiento gigantesco a los desarrolladores, creadores y rep
 
 - 🔸 **StarFox** (v1.0)
   > *Agradecimientos al port original:* **[HarbourMasters](https://github.com/HarbourMasters/Starship/)**
+
+- 🔸 **Disney Castle of Illusion** (v1.0)
+  > *Agradecimientos al port original:* **[NaGaa95](https://github.com/NaGaa95/coi_nx)**
 
