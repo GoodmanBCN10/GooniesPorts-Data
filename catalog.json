@@ -659,5 +659,16 @@
             "https://media.rawg.io/media/screenshots/af4/af4efc6ddfc8c47b64cfe7388894a75f.jpg",
             "https://media.rawg.io/media/screenshots/4c4/4c4c850cc5f00781afa34866e237fc55.jpg"
         ]
+    },
+    {
+        "name": "Star_Fox",
+        "title": "StarFox",
+        "category": "Nintendo 64",
+        "developer": "HarbourMasters",
+        "version": "1.0",
+        "directDownloadUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/Star_Fox_Goonies.zip",
+        "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/Star_Fox.jpg?raw=true",
+        "description": "",
+        "sourceUrl": "https://github.com/HarbourMasters/Starship/"
     }
 ]
