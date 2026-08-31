@@ -658,5 +658,16 @@
         "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/Star_Fox.jpg?raw=true",
         "description": "",
         "sourceUrl": "https://github.com/HarbourMasters/Starship/"
+    },
+    {
+        "name": "coi",
+        "title": "Disney Castle of Illusion",
+        "category": "Android",
+        "developer": "NaGaa95",
+        "version": "1.0",
+        "directDownloadUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/coi_Goonies.zip",
+        "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/coi.jpg?raw=true",
+        "description": "",
+        "sourceUrl": "https://github.com/NaGaa95/coi_nx"
     }
 ]
