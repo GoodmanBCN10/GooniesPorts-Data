@@ -95,6 +95,7 @@ Queremos dar un agradecimiento gigantesco a los desarrolladores, creadores y rep
 
 - 🔸 **Disney Castle of Illusion** (v1.0)
   > *Agradecimientos al port original:* **[NaGaa95](https://github.com/NaGaa95/coi_nx)**
-  >
-  > > *Agradecimientos a:* **Switch Scene**
+
+- 🔸 **Dr Mario Mania** (v1.0)
+  > *Agradecimientos al port original:* **[delsonazevedo](https://github.com/delsonazevedo/drmariomania_nx)**
 
