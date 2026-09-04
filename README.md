@@ -96,6 +96,6 @@ Queremos dar un agradecimiento gigantesco a los desarrolladores, creadores y rep
 - 🔸 **Disney Castle of Illusion** (v1.0)
   > *Agradecimientos al port original:* **[NaGaa95](https://github.com/NaGaa95/coi_nx)**
 
-- 🔸 **Dr Mario Mania** (v1.0)
-  > *Agradecimientos al port original:* **[delsonazevedo](https://github.com/delsonazevedo/drmariomania_nx)**
+- 🔸 **Megaman X Regenesis** (v1.0)
+  > *Agradecimientos al port original:* **[StevensND](https://github.com/StevensND/mmxregenesis_nx)**
 
