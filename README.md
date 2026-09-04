@@ -105,3 +105,6 @@ Queremos dar un agradecimiento gigantesco a los desarrolladores, creadores y rep
 - 🔸 **Jackie Chan Stuntmaster** (v1.0)
   > *Agradecimientos al port original:* **[CostelaCNX](https://github.com/CostelaCNX/ReChan-Switch)**
 
+- 🔸 **Metroid Prime Origins** (v1.0)
+  > *Agradecimientos al port original:* **[bshurikan](https://github.com/bshurikan/mpo_nx)**
+
