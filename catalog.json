@@ -694,5 +694,16 @@
         "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/jackiechanstuntmaster.jpg?raw=true",
         "description": "",
         "sourceUrl": "https://github.com/CostelaCNX/ReChan-Switch"
+    },
+    {
+        "name": "mpo_nx",
+        "title": "Metroid Prime Origins",
+        "category": "Android",
+        "developer": "bshurikan",
+        "version": "1.0",
+        "directDownloadUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/mpo_nx_Goonies.zip",
+        "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/Metroid%20Prime%20Origins.jpg?raw=true",
+        "description": "",
+        "sourceUrl": "https://github.com/bshurikan/mpo_nx"
     }
 ]
