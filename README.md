@@ -99,3 +99,9 @@ Queremos dar un agradecimiento gigantesco a los desarrolladores, creadores y rep
 - 🔸 **Megaman X Regenesis** (v1.0)
   > *Agradecimientos al port original:* **[StevensND](https://github.com/StevensND/mmxregenesis_nx)**
 
+- 🔸 **Dr. Mario Mania** (v1.0)
+  > *Agradecimientos al port original:* **Desconocido**
+
+- 🔸 **Jackie Chan Stuntmaster** (v1.0)
+  > *Agradecimientos al port original:* **[CostelaCNX](https://github.com/CostelaCNX/ReChan-Switch)**
+
