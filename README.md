@@ -108,3 +108,6 @@ Queremos dar un agradecimiento gigantesco a los desarrolladores, creadores y rep
 - 🔸 **Metroid Prime Origins** (v1.0)
   > *Agradecimientos al port original:* **[bshurikan](https://github.com/bshurikan/mpo_nx)**
 
+- 🔸 **PES 21** (v1.0)
+  > *Agradecimientos al port original:* **[Ibnuard](https://github.com/Ibnuard/pes21_nx)**
+
