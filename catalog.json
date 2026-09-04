@@ -705,5 +705,16 @@
         "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/Metroid%20Prime%20Origins.jpg?raw=true",
         "description": "",
         "sourceUrl": "https://github.com/bshurikan/mpo_nx"
+    },
+    {
+        "name": "pes21_nx",
+        "title": "PES 21",
+        "category": "Android",
+        "developer": "Ibnuard",
+        "version": "1.0",
+        "directDownloadUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/pes21_nx_part1.zip,https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/pes21_nx_part2.zip,https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/pes21_nx_part3.zip",
+        "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/PES21.jpg?raw=true",
+        "description": "",
+        "sourceUrl": "https://github.com/Ibnuard/pes21_nx"
     }
 ]
