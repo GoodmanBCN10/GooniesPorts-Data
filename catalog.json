@@ -661,14 +661,14 @@
         ]
     },
     {
-        "name": "drmariomania_nx",
-        "title": "Dr Mario Mania",
+        "name": "mmxregenesis_nx",
+        "title": "Megaman X Regenesis",
         "category": "Android",
-        "developer": "delsonazevedo",
+        "developer": "StevensND",
         "version": "1.0",
-        "directDownloadUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/drmariomania_nx_Goonies.zip",
-        "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/mario_mania.jpg?raw=true",
+        "directDownloadUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/mmxregenesis_nx_Goonies.zip",
+        "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/mxregenesis.jpg?raw=true",
         "description": "",
-        "sourceUrl": "https://github.com/delsonazevedo/drmariomania_nx"
+        "sourceUrl": "https://github.com/StevensND/mmxregenesis_nx"
     }
 ]
