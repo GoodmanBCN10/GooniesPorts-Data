@@ -114,3 +114,6 @@ Queremos dar un agradecimiento gigantesco a los desarrolladores, creadores y rep
 - 🔸 **Need For Speed Most Wanted** (v1.0)
   > *Agradecimientos al port original:* **[StevensND](https://github.com/StevensND/nfsmw-nx)**
 
+- 🔸 **FarCry** (v1.0)
+  > *Agradecimientos al port original:* **[artslay](https://github.com/artslay/NearChuckle_nx)**
+
