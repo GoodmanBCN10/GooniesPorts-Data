@@ -727,5 +727,16 @@
         "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/nfs.jpg?raw=true",
         "description": "",
         "sourceUrl": "https://github.com/StevensND/nfsmw-nx"
+    },
+    {
+        "name": "NearChuckle_nx",
+        "title": "FarCry",
+        "category": "Ports",
+        "developer": "artslay",
+        "version": "1.0",
+        "directDownloadUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/NearChuckle_nx_part1.zip,https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/NearChuckle_nx_part2.zip",
+        "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/farcry.jpg?raw=true",
+        "description": "",
+        "sourceUrl": "https://github.com/artslay/NearChuckle_nx"
     }
 ]
