@@ -111,3 +111,6 @@ Queremos dar un agradecimiento gigantesco a los desarrolladores, creadores y rep
 - 🔸 **PES 21** (v1.0)
   > *Agradecimientos al port original:* **[Ibnuard](https://github.com/Ibnuard/pes21_nx)**
 
+- 🔸 **Need For Speed Most Wanted** (v1.0)
+  > *Agradecimientos al port original:* **[StevensND](https://github.com/StevensND/nfsmw-nx)**
+
