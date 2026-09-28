@@ -716,5 +716,16 @@
         "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/PES21.jpg?raw=true",
         "description": "",
         "sourceUrl": "https://github.com/Ibnuard/pes21_nx"
+    },
+    {
+        "name": "nfsmw-nx",
+        "title": "Need For Speed Most Wanted",
+        "category": "Ports",
+        "developer": "StevensND",
+        "version": "1.0",
+        "directDownloadUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/nfsmw-nx_part1.zip,https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/nfsmw-nx_part2.zip,https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/nfsmw-nx_part3.zip,https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/nfsmw-nx_part4.zip",
+        "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/nfs.jpg?raw=true",
+        "description": "",
+        "sourceUrl": "https://github.com/StevensND/nfsmw-nx"
     }
 ]
