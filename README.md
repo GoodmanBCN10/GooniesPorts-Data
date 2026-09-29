@@ -117,3 +117,6 @@ Queremos dar un agradecimiento gigantesco a los desarrolladores, creadores y rep
 - 🔸 **FarCry** (v1.0)
   > *Agradecimientos al port original:* **[artslay](https://github.com/artslay/NearChuckle_nx)**
 
+- 🔸 **Super Mario Strikers** (v1.0)
+  > *Agradecimientos al port original:* **[new-coke](https://github.com/new-coke/strikers)**
+
