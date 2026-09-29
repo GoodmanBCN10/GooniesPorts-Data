@@ -738,5 +738,16 @@
         "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/farcry.jpg?raw=true",
         "description": "",
         "sourceUrl": "https://github.com/artslay/NearChuckle_nx"
+    },
+    {
+        "name": "strikers",
+        "title": "Super Mario Strikers",
+        "category": "GameCube",
+        "developer": "new-coke",
+        "version": "1.0",
+        "directDownloadUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/strikers_Goonies.zip",
+        "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/SUPERMARIOSTRIKERS.JPG?raw=true",
+        "description": "",
+        "sourceUrl": "https://github.com/new-coke/strikers"
     }
 ]
