@@ -749,5 +749,16 @@
         "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/SUPERMARIOSTRIKERS.JPG?raw=true",
         "description": "",
         "sourceUrl": "https://github.com/new-coke/strikers"
+    },
+    {
+        "name": "openmohaa",
+        "title": "Medal of Honor: Allied Assault",
+        "category": "Ports",
+        "developer": "NaGaa95",
+        "version": "1.0",
+        "directDownloadUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/openmohaa_Goonies.zip",
+        "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/mohaa.JPG?raw=true",
+        "description": "",
+        "sourceUrl": "https://github.com/NaGaa95/openmohaa_nx/"
     }
 ]
