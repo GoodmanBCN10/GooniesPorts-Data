@@ -668,9 +668,15 @@
         "version": "1.0",
         "directDownloadUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/mmxregenesis_nx_Goonies.zip",
         "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/mxregenesis.jpg?raw=true",
-        "description": "",
+        "description": "Play the one level of megaman X with Xbox controller, the buttons for game control is:\nAttack: LB\nJump: A\nDash: B\nMove: D-pad",
         "sourceUrl": "https://github.com/StevensND/mmxregenesis_nx",
-        "size": 300518608
+        "size": 300518608,
+        "publisher": "Assembly Electronics",
+        "genre": "Adventure",
+        "year": "2022",
+        "screenshots": [
+            "https://media.rawg.io/media/screenshots/8ef/8ef291c67a34f2e1c0a3ff35c2b11fac.jpg"
+        ]
     },
     {
         "name": "drmariomania_nx",
@@ -680,9 +686,20 @@
         "version": "1.0",
         "directDownloadUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/drmariomania_nx_Goonies.zip",
         "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/mario_mania.jpg?raw=true",
-        "description": "",
+        "description": "Feeling under the weather? Well, Dr. Mario has the cure for you! Help\nhim fight bodies of nasty viruses with multi-colored vitamins,\neliminating those germs faster than they can multiply. Rotate the\nvitamins as they drop, and gain a higher score by aligning multiples of\nthe same color. Clear all of the viruses to move on to the next round.\nBut watch out as the vitamins start dropping at a faster rate! Not\nenough of a challenge? Try competing against a buddy, and prove that\nyou're just what the doctor prescribed!\nThis classic game is part of the Virtual Console service, which brings you great games created for consoles such as NES™, Super NES™ and Game Boy™ Advance. We hope you'll enjoy the new features (including off-TV play) that have been added to this title. See more Virtual Console games for Wii U.",
         "sourceUrl": "",
-        "size": 589894961
+        "size": 589894961,
+        "publisher": "Nintendo",
+        "genre": "Puzzle",
+        "year": "1990",
+        "screenshots": [
+            "https://media.rawg.io/media/screenshots/688/688f0fd53ee3ff6ac5dbd1efd5b3d700.jpg",
+            "https://media.rawg.io/media/screenshots/b7f/b7f510a8dd57e5c2d4c4a5c70fd3f26d.jpg",
+            "https://media.rawg.io/media/screenshots/f84/f84e2a1ee0c9ae39beee5eedc6e9da8f.jpg",
+            "https://media.rawg.io/media/screenshots/8ab/8abcbbab13977ca72a3eedcd9c7d243a.jpg",
+            "https://media.rawg.io/media/screenshots/359/3590edc42330cf1189718bedfbbbb8e8.jpg",
+            "https://media.rawg.io/media/screenshots/fce/fcec5382312bb6d616f58aa2b95b451f.jpg"
+        ]
     },
     {
         "name": "ReChan",
@@ -692,8 +709,20 @@
         "version": "1.0",
         "directDownloadUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/ReChan_Goonies.zip",
         "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/jackiechanstuntmaster.jpg?raw=true",
-        "description": "",
-        "sourceUrl": "https://github.com/CostelaCNX/ReChan-Switch"
+        "description": "Jackie Chan Stuntmaster (sometimes mislabeled as Jackie Chan's Stuntmaster) is a beat 'em up platform video game developed by Radical Entertainment and published by Midway Home Entertainment exclusively for the PlayStation home console.\nIt is based on the actor and martial artist, Jackie Chan, whom the player gets in the shoes of, fighting his way past numerous villains in different locations across the city of New York.",
+        "sourceUrl": "https://github.com/CostelaCNX/ReChan-Switch",
+        "size": 1220195824,
+        "publisher": "Midway Games, Midway Home Entertainment, SCEE",
+        "genre": "Action, Fighting",
+        "year": "2000",
+        "screenshots": [
+            "https://media.rawg.io/media/screenshots/aa9/aa94630a4cddcb5f31ac434de04f4fc9.jpg",
+            "https://media.rawg.io/media/screenshots/55c/55ccea78f11381491163c93efb1d47e9.jpg",
+            "https://media.rawg.io/media/screenshots/08e/08e31257002965c10a561fcc22cd395f.jpg",
+            "https://media.rawg.io/media/screenshots/de0/de03f93fa804416d5d2e713396d13e85.jpg",
+            "https://media.rawg.io/media/screenshots/dda/dda5ebc32d640d4c78bc61dd0133ca5f.jpg",
+            "https://media.rawg.io/media/screenshots/c17/c17ee2d52b259874c97693096acebdbb.jpg"
+        ]
     },
     {
         "name": "mpo_nx",
@@ -703,8 +732,20 @@
         "version": "1.0",
         "directDownloadUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/mpo_nx_Goonies.zip",
         "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/Metroid%20Prime%20Origins.jpg?raw=true",
-        "description": "",
-        "sourceUrl": "https://github.com/bshurikan/mpo_nx"
+        "description": "Metroid Prime 3: Corruption set a new standard for first-person\nmotion controls in video games. Now it's bringing those controls to the\nrest of the celebrated series, allowing players to experience the entire\nMetroid Prime story arc with the peerless precision of the Wii Remote.\nNintendo announces Metroid Prime Trilogy, a new premium\nthree-game collection for the Wii console that bundles all three\nlandmark Metroid Prime games onto one disc and revamps the first\ntwo installments with intuitive Wii Remote controls, wide-screen\npresentation and other enhancements.\n\nEach game maintains its original storyline and settings, but now Metroid\nPrime and Metroid Prime 2: Echoes let players use their Wii\nRemote to aim with precision as heroine Samus Aran. Based on the\nbreakthrough control system that debuted in Metroid Prime 3:\nCorruption, these new Wii controls bring an entirely new level of\nimmersion and freedom to these milestone games.",
+        "sourceUrl": "https://github.com/bshurikan/mpo_nx",
+        "size": 506421642,
+        "publisher": "Nintendo",
+        "genre": "Action, Adventure",
+        "year": "2009",
+        "screenshots": [
+            "https://media.rawg.io/media/screenshots/584/5848868ed9950cf3c1abe71336d101de.jpg",
+            "https://media.rawg.io/media/screenshots/39d/39d819ce784ed7750bd0b3f729f29219.jpg",
+            "https://media.rawg.io/media/screenshots/f12/f12e23fa634278c71f3176b13f266536.jpg",
+            "https://media.rawg.io/media/screenshots/afa/afa950c0964a9e37efb61cbb5c52a154.jpg",
+            "https://media.rawg.io/media/screenshots/522/522e55c20675eda69ea28ebfad9c9698.jpg",
+            "https://media.rawg.io/media/screenshots/ed4/ed4c2778c5b6a2b5fa3661366a6f05f2.jpg"
+        ]
     },
     {
         "name": "pes21_nx",
@@ -714,8 +755,20 @@
         "version": "1.0",
         "directDownloadUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/pes21_nx_part1.zip,https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/pes21_nx_part2.zip,https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/pes21_nx_part3.zip",
         "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/PES21.jpg?raw=true",
-        "description": "",
-        "sourceUrl": "https://github.com/Ibnuard/pes21_nx"
+        "description": "Win as One in EA SPORTS™ FIFA 21, powered by Frostbite™. FIFA 21 has more ways to play than ever before - including the UEFA Champions League and CONMEBOL Libertadores. Stay tuned for exciting news to come.",
+        "sourceUrl": "https://github.com/Ibnuard/pes21_nx",
+        "size": 29,
+        "publisher": "Electronic Arts",
+        "genre": "Sports",
+        "year": "2020",
+        "screenshots": [
+            "https://media.rawg.io/media/screenshots/66b/66ba6634cf120affd5e91db5d7e4eb0c.jpg",
+            "https://media.rawg.io/media/screenshots/92a/92a283ea456d112eecfc2ac7d70fa093.jpg",
+            "https://media.rawg.io/media/screenshots/713/713aada6ec4aee4e513123dc79dff09a.jpg",
+            "https://media.rawg.io/media/screenshots/0ba/0baebdbf91486158dd63f4264c4cd67f.jpg",
+            "https://media.rawg.io/media/screenshots/c7d/c7d46fe77106753d66f4243e51a07e06.jpg",
+            "https://media.rawg.io/media/screenshots/453/453ae178a4b0413b8c4687215266dbc9.jpg"
+        ]
     },
     {
         "name": "nfsmw-nx",
@@ -725,8 +778,20 @@
         "version": "1.0",
         "directDownloadUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/nfsmw-nx_part1.zip,https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/nfsmw-nx_part2.zip,https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/nfsmw-nx_part3.zip,https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/nfsmw-nx_part4.zip",
         "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/nfs.jpg?raw=true",
-        "description": "",
-        "sourceUrl": "https://github.com/StevensND/nfsmw-nx"
+        "description": "Wake up to the smell of burnt asphalt as the scent of illicit street\nracing permeates the air. Need for Speed Most Wanted challenges you to\nbecome the most notorious and elusive street racer.\n\nFeatures\n\n• Master the art of cop evasion in Barricade Runner and other new race\nmodes.\n• Modify your ride to beat any tuner, muscle, or exotic.\n•\nCustomize the look of your car to elude police pursuit.\n• Win races,\nclimb the Blacklist, become the Most Wanted.",
+        "sourceUrl": "https://github.com/StevensND/nfsmw-nx",
+        "size": 29,
+        "publisher": "Electronic Arts",
+        "genre": "Racing, Arcade",
+        "year": "2005",
+        "screenshots": [
+            "https://media.rawg.io/media/screenshots/c96/c962d8c17a532f240c1a25af6a5f0e6f.jpg",
+            "https://media.rawg.io/media/screenshots/03a/03adb977ba33b218fd16e3cd1ef8e5ef.jpg",
+            "https://media.rawg.io/media/screenshots/f2c/f2c449b40c6083d409579670f9f846d7.jpg",
+            "https://media.rawg.io/media/screenshots/f89/f89bd1dfaa6197bbf3df115db7fe2eac.jpg",
+            "https://media.rawg.io/media/screenshots/a4e/a4e077f287ca1676fe3487044dbdec71.jpg",
+            "https://media.rawg.io/media/screenshots/dd5/dd5b5dcd05841944bb8ff394a3dbc4a7.jpg"
+        ]
     },
     {
         "name": "NearChuckle_nx",
@@ -736,8 +801,20 @@
         "version": "1.0",
         "directDownloadUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/NearChuckle_nx_part1.zip,https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/NearChuckle_nx_part2.zip",
         "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/farcry.jpg?raw=true",
-        "description": "",
-        "sourceUrl": "https://github.com/artslay/NearChuckle_nx"
+        "description": "Weird gems are falling from the skies! Who will manage to do something about it? Maybe Rinka? Well, Wiseghaika surely hopes that somebody will do something.\nSome fairies managed to learn how to use them as a weapon, so fights will be less painful. But not all of them have mastered this art. To be exact - neither of our six heroes can use those mysterious stones in big barrages. This... might give you some problems. But c'mon, since when were heroes stronger that their foes? (Please, don't say it in front of Skootis.)\nBack to gems! Weird thing about them - when two of the same color collide, they go \"ding\" and release some weird spheres. Those spheres can absorb other gems! Red spheres, for example, absorb all red gems, they meet, but will stop after absorbing any gem that isn't red. The same happens with others, mostly-maybe! ('^' )\nIf gems will touch left side of your screen, you'll get hurt! Does it makes sense? What are \"screens\"? I heard abut them from Astro-fairies, but now they are extinct, so I can't ask them.\nGray gems are different and weird! They won't hurt you and most likely will disappear after touching that weird shield in front of you. It is almost like they're devoid of energy. But you shouldn't take them too easy - You can't destroy them as there are no gray gems in your arsenal, so, only way is either to wait while they will be destroyed by the barrier, or make some sphere touch them.=about the Game Itself=\nThis game is made in the vein of old puzzle-like games, without real twist. Just simple active puzzle.Or maybe there is some twist?\nFor the first game made with this engine I think it is good job from my side, considering, that everything except music is made by sole silly me.\nNow, there is a couple known bugs that can occur, but won't destroy game too much, or maybe they are finally gone - couldn't get them last beta-testing session. Game just... likes to be important to you, so please remember to put it on a pause, if you suddenly need to do something else, while playing. ('^' )\nPlease, tell us about bugs, we'll be trying to fix them.\nRemember to save settings in OPTIONS, or else when you restart the game they'll go back to standard ones.\nMarkiza\nInfo-fairy - Young individual composed of only two things - information and desire to obtain new information.                                  Sersh\nTech-fairy - Lone wanderer, aimlessly pondering around Fairy Lands. Also he often loses his hand, so it is hidden in his pocket most of time.                                  Roxanna\nRag-fairy - Little silly girl with a big melodic dream. She is soft to the touch too.                                   Volia\nAqua-fairy - Self-confident boy made\nof magical clay who possesses ability\nto control water. He is water. He is sane.\nHe loves to eat.                                   Skootis\nAsh-fairy - She will be the strongest, you hear me? This is for sure is not her writings! But it is truth!                                  Rinka\nBarbarian-fairy - This girl surely loves marzipan cakes. And to crush stuff when cake goes not into her belly. And hey, she is important!\nStory  Art  Odd Meat  Odd meat  Gameplay programming  Translation help  Odd Meat (with some\nidea assistance from testers)  dsp 2003\nXitilon  Music  Testers  Penguinum\nFiriat\ndsp2003\nOkamisen\nMr. RK\nNekomata  dsp2003\nElp2112\nXitilon\nLabtop 215\nOkamisen",
+        "sourceUrl": "https://github.com/artslay/NearChuckle_nx",
+        "size": 29,
+        "publisher": "Xitilon",
+        "genre": "Casual, Indie",
+        "year": "2017",
+        "screenshots": [
+            "https://media.rawg.io/media/screenshots/261/26118b09b8dac9fbeb8cdcfa40318220.jpg",
+            "https://media.rawg.io/media/screenshots/22c/22c6b7d20c21288c1a607ac524cd3cd7.jpg",
+            "https://media.rawg.io/media/screenshots/a61/a61be66ee9cc65ef2818b76ff6ec4379.jpg",
+            "https://media.rawg.io/media/screenshots/486/4867bda7aefe2121c61064cf8a797a42.jpg",
+            "https://media.rawg.io/media/screenshots/962/96275fd3865906a05315679ea7a6420c.jpg",
+            "https://media.rawg.io/media/screenshots/c07/c075621a2365481c5a335b81c152246b.jpg"
+        ]
     },
     {
         "name": "strikers",
@@ -747,8 +824,20 @@
         "version": "1.0",
         "directDownloadUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/strikers_Goonies.zip",
         "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/SUPERMARIOSTRIKERS.JPG?raw=true",
-        "description": "",
-        "sourceUrl": "https://github.com/new-coke/strikers"
+        "description": "Nintendo's foray into sports titles continues with Super Mario Strikers, a new soccer game that's unlike anything ever to hit the pitch. Whether players are freezing their opponents with an ice-cold shell, unleashing a spiny shell on their hapless opponents or making entire teams flee in terror with a roving Chain Chomp, they're sure to see something new around every corner kick. Super Mario Strikers features all the favorite characters from the Nintendo universe, as well as four-person multiplayer action that will have players and their friends cheering all night long. Get ready for the world cup of gaming.",
+        "sourceUrl": "https://github.com/new-coke/strikers",
+        "size": 1512666467,
+        "publisher": "Nintendo",
+        "genre": "Sports",
+        "year": "2005",
+        "screenshots": [
+            "https://media.rawg.io/media/screenshots/3ea/3eaf73eee2111d42adc20e7049ee51ad.jpg",
+            "https://media.rawg.io/media/screenshots/a2c/a2c0f237f2e93e4faaf7777d979c9ca9.jpg",
+            "https://media.rawg.io/media/screenshots/639/639f5f8afee2fdd0e1d68d934811709a.jpg",
+            "https://media.rawg.io/media/screenshots/f07/f07c33594508a1ab85509759c631eca8.jpg",
+            "https://media.rawg.io/media/screenshots/a58/a5827ec30b6598ffe9d63b4848b42019.jpg",
+            "https://media.rawg.io/media/screenshots/468/4682a37aa5a81a9b2a8b8dae7c921c82.jpg"
+        ]
     },
     {
         "name": "openmohaa",
@@ -759,7 +848,19 @@
         "directDownloadUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/openmohaa_Goonies.zip",
         "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/mohaa.JPG?raw=true",
         "description": "",
-        "sourceUrl": "https://github.com/NaGaa95/openmohaa_nx/"
+        "sourceUrl": "https://github.com/NaGaa95/openmohaa_nx/",
+        "size": 1318263670,
+        "publisher": "Electronic Arts",
+        "genre": "Shooter",
+        "year": "2002",
+        "screenshots": [
+            "https://media.rawg.io/media/screenshots/cf6/cf64885095c5c42ff2652f471f886c8a.jpg",
+            "https://media.rawg.io/media/screenshots/92e/92ef91e1f1452af38d3a189976659851.jpg",
+            "https://media.rawg.io/media/screenshots/c81/c8172d025db9ef826319089c911924b2.jpg",
+            "https://media.rawg.io/media/screenshots/4ce/4ce5c3ad05d288938e526bca0b1a7a02.jpg",
+            "https://media.rawg.io/media/screenshots/a87/a87f14400d5be6861cc35b230b2c4b04.jpg",
+            "https://media.rawg.io/media/screenshots/2d2/2d27b79bd80e3248ea249e450caa7b21.jpg"
+        ]
     },
     {
         "name": "COD",
@@ -769,8 +870,20 @@
         "version": "1.0",
         "directDownloadUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/COD_Goonies.zip",
         "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/COD.jpg?raw=true",
-        "description": "",
-        "sourceUrl": "https://github.com/Wiiucoop/KisakBlack-NX"
+        "description": "Call of Duty: Black Ops is a first-person shooter, a seventh installment in the series altogether and a sequel to Call of Duty: World at War. The game takes place during the Cold War and shows different historical periods of it.\r\nThe main character is a CIA agent, set out on different classified missions and tasked with eliminating enemies if needed. The story in the game is complicated, featuring characters from the previous games, and historical figures like JFK and Fidel Castro. Despite its emphasis on the scenario and real-world plausibility, Black Ops doesn’t lack in gameplay terms, as the combat system is, as established in series, extensive and realistic. The graphics are made for the player’s highest level of entertainment, with massive special effects and excellent quality of every detail.\r\nCall of Duty: Black Ops features a trademark multiplayer system, with different game modes, competitive play, and cooperative maps. The players can earn ranks for their performance, unlock new customizable weapons and different perks for use in the upcoming battles.",
+        "sourceUrl": "https://github.com/Wiiucoop/KisakBlack-NX",
+        "size": 29,
+        "publisher": "Square Enix, Activision Blizzard, Activison",
+        "genre": "Action, Shooter",
+        "year": "2010",
+        "screenshots": [
+            "https://media.rawg.io/media/screenshots/a02/a027c280854d5e2f5356f87665dd524a.jpg",
+            "https://media.rawg.io/media/screenshots/6fb/6fba712fa9ca9ffada775b77e4dcff74.jpg",
+            "https://media.rawg.io/media/screenshots/e8d/e8dfc3e3614f83b968898eb2adbd5e64.jpg",
+            "https://media.rawg.io/media/screenshots/7be/7be0d2082caa1eebf28a901f0ccb3561.jpg",
+            "https://media.rawg.io/media/screenshots/892/89281338b206f0d06bae96beb00aa9dd.jpg",
+            "https://media.rawg.io/media/screenshots/9e7/9e7aa6f83ffdfc7ec57f78d1dcdaf0fa.jpg"
+        ]
     },
     {
         "name": "boz",
@@ -780,7 +893,19 @@
         "version": "1.0",
         "directDownloadUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/boz_Goonies.zip",
         "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/COD.jpg?raw=true",
-        "description": "",
-        "sourceUrl": "https://github.com/Wiiucoop/KisakBlack-NX"
+        "description": "Call of Duty: Black Ops is a first-person shooter, a seventh installment in the series altogether and a sequel to Call of Duty: World at War. The game takes place during the Cold War and shows different historical periods of it.\r\nThe main character is a CIA agent, set out on different classified missions and tasked with eliminating enemies if needed. The story in the game is complicated, featuring characters from the previous games, and historical figures like JFK and Fidel Castro. Despite its emphasis on the scenario and real-world plausibility, Black Ops doesn’t lack in gameplay terms, as the combat system is, as established in series, extensive and realistic. The graphics are made for the player’s highest level of entertainment, with massive special effects and excellent quality of every detail.\r\nCall of Duty: Black Ops features a trademark multiplayer system, with different game modes, competitive play, and cooperative maps. The players can earn ranks for their performance, unlock new customizable weapons and different perks for use in the upcoming battles.",
+        "sourceUrl": "https://github.com/Wiiucoop/KisakBlack-NX",
+        "size": 544797061,
+        "publisher": "Square Enix, Activision Blizzard, Activison",
+        "genre": "Action, Shooter",
+        "year": "2010",
+        "screenshots": [
+            "https://media.rawg.io/media/screenshots/a02/a027c280854d5e2f5356f87665dd524a.jpg",
+            "https://media.rawg.io/media/screenshots/6fb/6fba712fa9ca9ffada775b77e4dcff74.jpg",
+            "https://media.rawg.io/media/screenshots/e8d/e8dfc3e3614f83b968898eb2adbd5e64.jpg",
+            "https://media.rawg.io/media/screenshots/7be/7be0d2082caa1eebf28a901f0ccb3561.jpg",
+            "https://media.rawg.io/media/screenshots/892/89281338b206f0d06bae96beb00aa9dd.jpg",
+            "https://media.rawg.io/media/screenshots/9e7/9e7aa6f83ffdfc7ec57f78d1dcdaf0fa.jpg"
+        ]
     }
 ]
