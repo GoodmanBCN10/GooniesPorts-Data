@@ -771,5 +771,16 @@
         "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/COD.jpg?raw=true",
         "description": "",
         "sourceUrl": "https://github.com/Wiiucoop/KisakBlack-NX"
+    },
+    {
+        "name": "boz",
+        "title": "Call of Duty: Black OPS vs Zombies",
+        "category": "Android",
+        "developer": "Wiiucoop",
+        "version": "1.0",
+        "directDownloadUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/boz_Goonies.zip",
+        "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/COD.jpg?raw=true",
+        "description": "",
+        "sourceUrl": "https://github.com/Wiiucoop/KisakBlack-NX"
     }
 ]
