@@ -123,3 +123,6 @@ Queremos dar un agradecimiento gigantesco a los desarrolladores, creadores y rep
 - 🔸 **Medal of Honor: Allied Assault** (v1.0)
   > *Agradecimientos al port original:* **[NaGaa95](https://github.com/NaGaa95/openmohaa_nx/)**
 
+- 🔸 **Call of Duty: Black OPS vs Zombies** (v1.0)
+  > *Agradecimientos al port original:* **[Wiiucoop](https://github.com/Wiiucoop/KisakBlack-NX)**
+
