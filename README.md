@@ -126,3 +126,6 @@ Queremos dar un agradecimiento gigantesco a los desarrolladores, creadores y rep
 - 🔸 **Call of Duty: Black OPS vs Zombies** (v1.0)
   > *Agradecimientos al port original:* **[Wiiucoop](https://github.com/Wiiucoop/KisakBlack-NX)**
 
+- 🔸 **Call of Duty: Black OPS vs Zombies** (v1.0)
+  > *Agradecimientos al port original:* **[Wiiucoop](https://github.com/Wiiucoop/KisakBlack-NX)**
+
