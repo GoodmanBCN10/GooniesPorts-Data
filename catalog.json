@@ -782,5 +782,16 @@
         "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/nfsu2.jpg?raw=true",
         "description": "",
         "sourceUrl": "https://github.com/antoxa2584x/nfsu2-sw"
+    },
+    {
+        "name": "abstarwars2",
+        "title": "Angry Birds Star Wars",
+        "category": "Android",
+        "developer": "Comunidad",
+        "version": "1.0",
+        "directDownloadUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/abstarwars2_Goonies.zip",
+        "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/agsw.jpg?raw=true",
+        "description": "",
+        "sourceUrl": ""
     }
 ]
