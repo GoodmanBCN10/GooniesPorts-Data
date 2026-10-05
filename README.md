@@ -129,3 +129,6 @@ Queremos dar un agradecimiento gigantesco a los desarrolladores, creadores y rep
 - 🔸 **Need for Speed Underground 2** (v1.0)
   > *Agradecimientos al port original:* **[antoxa2584x](https://github.com/antoxa2584x/nfsu2-sw)**
 
+- 🔸 **Angry Birds Star Wars** (v1.0)
+  > *Agradecimientos al port original:* **Comunidad**
+
