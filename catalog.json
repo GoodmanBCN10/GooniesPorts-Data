@@ -793,5 +793,16 @@
         "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/agsw.jpg?raw=true",
         "description": "",
         "sourceUrl": ""
+    },
+    {
+        "name": "switchwaker",
+        "title": "The Legend of Zelda: Wind Waker HD",
+        "category": "Ports",
+        "developer": "CentollOS",
+        "version": "1.0",
+        "directDownloadUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/switchwaker_Goonies.zip",
+        "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/windwaker.jpg?raw=true",
+        "description": "",
+        "sourceUrl": "https://github.com/centollOS/SwitchWakerHD"
     }
 ]
