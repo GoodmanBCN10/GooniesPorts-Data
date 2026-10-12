@@ -132,3 +132,6 @@ Queremos dar un agradecimiento gigantesco a los desarrolladores, creadores y rep
 - 🔸 **Angry Birds Star Wars** (v1.0)
   > *Agradecimientos al port original:* **Comunidad**
 
+- 🔸 **The Legend of Zelda: Wind Waker HD** (v1.0)
+  > *Agradecimientos al port original:* **[CentollOS](https://github.com/centollOS/SwitchWakerHD)**
+
