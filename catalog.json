@@ -105,26 +105,14 @@
     },
     {
         "name": "sorx_nx",
-        "title": "Street of Rage X",
+        "title": "Streets of Rage X",
         "category": "Android",
         "developer": "delsonazevedo",
         "version": "1.0",
         "directDownloadUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/sorx_nx_Goonies.zip",
-        "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/street_of_rage_nx.jpg?raw=true",
-        "description": "Just UpdatedAll SEGA MegaDrive/Genesis titles now launch using the new SEGA MegaDrive/Genesis Interactive Hub, with all new features, UI and Steam Workshop Support!\nAbout the GameWhat was once a happy, peaceful, productive city, has fallen into the hands of a secret criminal syndicate.\nLooting, random violence and destruction are rampant. Nobody is safe. Despite repeated refusals by their superiors, three young police officers were determined to tackle the problem head on. Eventually they created a special attack unit the only way they could ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Å“ they quit the force. Take control of one of the three ex-officers and make the city a place where people no longer have to walk the Streets of RageÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢!",
-        "sourceUrl": "https://github.com/delsonazevedo/sorx_nx",
-        "size": 405392760,
-        "publisher": "SEGA",
-        "genre": "Action, Arcade",
-        "year": "1991",
-        "screenshots": [
-            "https://media.rawg.io/media/screenshots/436/4366cc1c071f8f8a30055846f5d739dc.jpg",
-            "https://media.rawg.io/media/screenshots/636/636495be4e81d01a713e8f0af3bbd52d.jpg",
-            "https://media.rawg.io/media/screenshots/b46/b467fb09575f4bf738f272ee6853ccc3.jpg",
-            "https://media.rawg.io/media/screenshots/325/3256ea1202ffb386a6dd6553550d9afc.jpg",
-            "https://media.rawg.io/media/screenshots/e61/e61ae7527bced00cca2f8b1b40ecaeb6.jpg",
-            "https://media.rawg.io/media/screenshots/bf6/bf671c650e12bd620c769d316b5b5140.jpg"
-        ]
+        "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/sorx.jpg?raw=true",
+        "description": "",
+        "sourceUrl": "https://github.com/delsonazevedo/sorx_nx"
     },
     {
         "name": "smwr_nx",
