@@ -135,3 +135,6 @@ Queremos dar un agradecimiento gigantesco a los desarrolladores, creadores y rep
 - 🔸 **The Legend of Zelda: Wind Waker HD** (v1.0)
   > *Agradecimientos al port original:* **[CentollOS](https://github.com/centollOS/SwitchWakerHD)**
 
+- 🔸 **Need for Speed Carbon** (v1.0)
+  > *Agradecimientos al port original:* **[antoxa2584x](https://github.com/antoxa2584x/nfsc-sw)**
+
