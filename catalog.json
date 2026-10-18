@@ -792,5 +792,16 @@
         "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/windwaker.jpg?raw=true",
         "description": "",
         "sourceUrl": "https://github.com/centollOS/SwitchWakerHD"
+    },
+    {
+        "name": "nfscx",
+        "title": "Need for Speed Carbon",
+        "category": "Ports",
+        "developer": "antoxa2584x",
+        "version": "1.0",
+        "directDownloadUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/nfscx_part1.zip,https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/nfscx_part2.zip",
+        "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/nfsc.jpg?raw=true",
+        "description": "",
+        "sourceUrl": "https://github.com/antoxa2584x/nfsc-sw"
     }
 ]
