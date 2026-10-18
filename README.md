@@ -21,7 +21,7 @@ Queremos dar un agradecimiento gigantesco a los desarrolladores, creadores y rep
 - 🔸 **Banjo-Kazooie** (v1.0)
   > *Agradecimientos al port original:* **[PalindromicBreadLoaf](https://github.com/PalindromicBreadLoaf/Docklight)**
 
-- 🔸 **Street of Rage X** (v1.0)
+- 🔸 **Streets of Rage X** (v1.0)
   > *Agradecimientos al port original:* **[delsonazevedo](https://github.com/delsonazevedo/sorx_nx)**
 
 - 🔸 **Super Mario World Remastered** (v1.0)
