@@ -138,3 +138,6 @@ Queremos dar un agradecimiento gigantesco a los desarrolladores, creadores y rep
 - 🔸 **Need for Speed Carbon** (v1.0)
   > *Agradecimientos al port original:* **[antoxa2584x](https://github.com/antoxa2584x/nfsc-sw)**
 
+- 🔸 **Out Run The Goonies** (v1.0)
+  > *Agradecimientos al port original:* **[djyt / Thorhax](https://github.com/Thorhax/Cannonball-NX-Modern)**
+
