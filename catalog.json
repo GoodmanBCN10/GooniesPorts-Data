@@ -803,5 +803,16 @@
         "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/nfsc.jpg?raw=true",
         "description": "",
         "sourceUrl": "https://github.com/antoxa2584x/nfsc-sw"
+    },
+    {
+        "name": "Cannonball_Switch",
+        "title": "Out Run The Goonies",
+        "category": "Ports",
+        "developer": "djyt / Thorhax",
+        "version": "1.0",
+        "directDownloadUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/Cannonball_Switch_Goonies.zip",
+        "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/outrun.jpg?raw=true",
+        "description": "Port nativo del clásico arcade Out Run a 60 FPS con soporte panorámico widescreen y música mejorada.",
+        "sourceUrl": "https://github.com/Thorhax/Cannonball-NX-Modern"
     }
 ]
