@@ -999,5 +999,16 @@
             "https://media.rawg.io/media/screenshots/ef5/ef596ce9f900d05e4a3234485cba5841.jpg",
             "https://media.rawg.io/media/screenshots/6e8/6e820ee0bc5648656def86e1d75c1fc6.jpg"
         ]
+    },
+    {
+        "name": "gears2-nx",
+        "title": "Gears of Wars 2",
+        "category": "Ports",
+        "developer": "GoodmanBCN",
+        "version": "1.0",
+        "directDownloadUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/gears2-nx_part1.zip,https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/gears2-nx_part2.zip,https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/gears2-nx_part3.zip,https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/gears2-nx_part4.zip,https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/gears2-nx_part5.zip",
+        "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/gears%20of%20wars%202.jpg?raw=true",
+        "description": "",
+        "sourceUrl": ""
     }
 ]
