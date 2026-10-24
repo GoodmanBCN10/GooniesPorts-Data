@@ -144,3 +144,6 @@ Queremos dar un agradecimiento gigantesco a los desarrolladores, creadores y rep
 - 🔸 **Gears of Wars 2** (v1.0)
   > *Agradecimientos al port original:* **GoodmanBCN**
 
+- 🔸 **Call of Duty 4 Modern Warfare** (v1.0)
+  > *Agradecimientos al port original:* **Comunidad**
+
