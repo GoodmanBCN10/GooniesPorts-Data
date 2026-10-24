@@ -1021,5 +1021,16 @@
         "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/COD4.jpg?raw=true",
         "description": "",
         "sourceUrl": ""
+    },
+    {
+        "name": "Prototype2",
+        "title": "Prototype 2",
+        "category": "Ports",
+        "developer": "Comunidad",
+        "version": "1.0",
+        "directDownloadUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/Prototype2_part1.zip,https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/Prototype2_part2.zip,https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/Prototype2_part3.zip,https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/Prototype2_part4.zip,https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/Prototype2_part5.zip",
+        "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/prototype2.jpg?raw=true",
+        "description": "",
+        "sourceUrl": ""
     }
 ]
