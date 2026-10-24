@@ -141,3 +141,6 @@ Queremos dar un agradecimiento gigantesco a los desarrolladores, creadores y rep
 - 🔸 **Out Run The Goonies** (v1.0)
   > *Agradecimientos al port original:* **[djyt / Thorhax](https://github.com/Thorhax/Cannonball-NX-Modern)**
 
+- 🔸 **Gears of Wars 2** (v1.0)
+  > *Agradecimientos al port original:* **GoodmanBCN**
+
