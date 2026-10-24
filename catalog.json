@@ -1010,5 +1010,16 @@
         "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/gears%20of%20wars%202.jpg?raw=true",
         "description": "",
         "sourceUrl": ""
+    },
+    {
+        "name": "Call of Duty 4 Modern Warfare",
+        "title": "Call of Duty 4 Modern Warfare",
+        "category": "Ports",
+        "developer": "Comunidad",
+        "version": "1.0",
+        "directDownloadUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/Call.of.Duty.4.Modern.Warfare_part1.zip,https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/Call.of.Duty.4.Modern.Warfare_part2.zip,https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/Call.of.Duty.4.Modern.Warfare_part3.zip",
+        "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/COD4.jpg?raw=true",
+        "description": "",
+        "sourceUrl": ""
     }
 ]
