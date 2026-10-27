@@ -1032,5 +1032,16 @@
         "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/prototype2.jpg?raw=true",
         "description": "",
         "sourceUrl": ""
+    },
+    {
+        "name": "t6game",
+        "title": "Call of Duty Black OPS II",
+        "category": "Ports",
+        "developer": "Comunidad",
+        "version": "1.0",
+        "directDownloadUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/t6game_part1.zip,https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/t6game_part2.zip,https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/t6game_part3.zip,https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/t6game_part4.zip,https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/t6game_part5.zip,https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/t6game_part6.zip,https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/t6game_part7.zip,https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/t6game_part8.zip,https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/t6game_part9.zip,https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/t6game_part10.zip,https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/t6game_part11.zip,https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/t6game_part12.zip,https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/t6game_part13.zip",
+        "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/codbo2.jpg?raw=true",
+        "description": "",
+        "sourceUrl": ""
     }
 ]
