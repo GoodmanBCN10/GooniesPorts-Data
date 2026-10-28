@@ -150,6 +150,5 @@ Queremos dar un agradecimiento gigantesco a los desarrolladores, creadores y rep
 - 🔸 **Prototype 2** (v1.0)
   > *Agradecimientos al port original:* **Comunidad**
 
-- 🔸 **Call of Duty Black OPS II** (v1.0)
-  > *Agradecimientos al port original:* **Comunidad**
+
 
