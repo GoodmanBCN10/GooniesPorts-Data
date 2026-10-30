@@ -12,9 +12,6 @@ Queremos dar un agradecimiento gigantesco a los desarrolladores, creadores y rep
 - 🔸 **Diddy_Kong_Racing** (v1.0)
   > *Agradecimientos al port original:* **[boraeskicioglu](https://github.com/boraeskicioglu/goldenballoon_nx)**
 
-- 🔸 **Plants vs Zombies 2** (v1.0)
-  > *Agradecimientos al port original:* **[xflipperkast](https://github.com/xflipperkast/PVZ2_NX)**
-
 - 🔸 **AP7 Racing** (v1.0)
   > *Agradecimientos al port original:* **GoodmanBCN**
 
@@ -150,5 +147,6 @@ Queremos dar un agradecimiento gigantesco a los desarrolladores, creadores y rep
 - 🔸 **Prototype 2** (v1.0)
   > *Agradecimientos al port original:* **Comunidad**
 
-
+- 🔸 **Plants vs Zombies 2** (v1.0)
+  > *Agradecimientos al port original:* **Comunidad**
 
