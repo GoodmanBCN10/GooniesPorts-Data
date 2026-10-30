@@ -35,29 +35,6 @@
         "size": 20823508
     },
     {
-        "name": "pvz2_nx",
-        "title": "Plants vs Zombies 2",
-        "category": "Android",
-        "developer": "xflipperkast",
-        "version": "1.0",
-        "directDownloadUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/pvz2_nx_Goonies.zip",
-        "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/pvz2_nx.jpg?raw=true",
-        "description": "The first part of the famous casual game about plants and zombies from the studio PopCap. The player will act as a homeowner, who uses different types of plants to protect his house from the invasion of zombies.\n\nIn the game, there are several types of plants and mushrooms that have a unique defense or attacking characteristics. The playing field is divided into 5 or 6 horizontal lines, along which the undead moves. To plant a plant, you need to spend a local analog of gold \"suns.\" Most plants can attack enemies only on their own line, however, as they pass and purchase upgrades, you can attack and enemies on several lines.\n\nThe game has three modes: singleplayer, multiplayer and Adventure Mode, in which players can earn currency for upgrades. As you go through, additional modes open: for example, Survival Mode and Puzzle Mode with mini-games.",
-        "sourceUrl": "https://github.com/xflipperkast/PVZ2_NX",
-        "size": 1105206179,
-        "publisher": "Electronic Arts, PopCap Games",
-        "genre": "Strategy, Arcade, Puzzle",
-        "year": "2009",
-        "screenshots": [
-            "https://media.rawg.io/media/screenshots/b79/b7975e35a38fb66ff82605480a527563.jpg",
-            "https://media.rawg.io/media/screenshots/067/067726bfb66da47c829e1b03d1c6810f.jpg",
-            "https://media.rawg.io/media/screenshots/4d2/4d2f88a5e46d7fe5b2a1da64dc012ce1.jpg",
-            "https://media.rawg.io/media/screenshots/452/45270893ff2df138c2fc347c6e698468.jpg",
-            "https://media.rawg.io/media/screenshots/7eb/7eb268765d3e941d159314f97911b6c7.jpg",
-            "https://media.rawg.io/media/screenshots/0c4/0c4a6895335c9f65c325bcd3189075cf.jpg"
-        ]
-    },
-    {
         "name": "retrohighwayracing",
         "title": "AP7 Racing",
         "category": "Android",
