@@ -1009,5 +1009,16 @@
         "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/prototype2.jpg?raw=true",
         "description": "",
         "sourceUrl": ""
+    },
+    {
+        "name": "pvz2_nx",
+        "title": "Plants vs Zombies 2",
+        "category": "Android",
+        "developer": "Comunidad",
+        "version": "1.0",
+        "directDownloadUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/pvz2_nx_part1.zip,https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/pvz2_nx_part2.zip",
+        "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/pvz2_nx.jpg?raw=true",
+        "description": "",
+        "sourceUrl": ""
     }
 ]
