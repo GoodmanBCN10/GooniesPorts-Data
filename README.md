@@ -147,9 +147,6 @@ Queremos dar un agradecimiento gigantesco a los desarrolladores, creadores y rep
 - 🔸 **Prototype 2** (v1.0)
   > *Agradecimientos al port original:* **Comunidad**
 
-- 🔸 **Plants vs Zombies 2** (v1.0)
-  > *Agradecimientos al port original:* **Comunidad**
-
-- 🔸 **FIFA Street** (v1.0)
+- 🔸 **Ages of Empires II** (v1.0)
   > *Agradecimientos al port original:* **Comunidad**
 
