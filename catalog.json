@@ -1020,5 +1020,16 @@
         "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/pvz2_nx.jpg?raw=true",
         "description": "",
         "sourceUrl": ""
+    },
+    {
+        "name": "street-nx",
+        "title": "FIFA Street",
+        "category": "Port",
+        "developer": "Comunidad",
+        "version": "1.0",
+        "directDownloadUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/street-nx_Goonies.zip",
+        "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/street.jpg?raw=true",
+        "description": "",
+        "sourceUrl": ""
     }
 ]
