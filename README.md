@@ -150,3 +150,6 @@ Queremos dar un agradecimiento gigantesco a los desarrolladores, creadores y rep
 - 🔸 **Plants vs Zombies 2** (v1.0)
   > *Agradecimientos al port original:* **Comunidad**
 
+- 🔸 **FIFA Street** (v1.0)
+  > *Agradecimientos al port original:* **Comunidad**
+
