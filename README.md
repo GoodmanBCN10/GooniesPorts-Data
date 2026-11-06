@@ -150,3 +150,6 @@ Queremos dar un agradecimiento gigantesco a los desarrolladores, creadores y rep
 - 🔸 **Ages of Empires II** (v1.0)
   > *Agradecimientos al port original:* **Comunidad**
 
+- 🔸 **Star Fox** (v1.0)
+  > *Agradecimientos al port original:* **Comunidad**
+
