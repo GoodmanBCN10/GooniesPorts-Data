@@ -1020,5 +1020,16 @@
         "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/ageofempiresii.jpg?raw=true",
         "description": "",
         "sourceUrl": ""
+    },
+    {
+        "name": "StarFoxEnhanced",
+        "title": "Star Fox",
+        "category": "Ports",
+        "developer": "Comunidad",
+        "version": "1.0",
+        "directDownloadUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/StarFoxEnhanced_Goonies.zip",
+        "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/starfox.jpg?raw=true",
+        "description": "",
+        "sourceUrl": ""
     }
 ]
