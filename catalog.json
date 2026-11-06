@@ -592,29 +592,6 @@
         ]
     },
     {
-        "name": "Star_Fox",
-        "title": "Star Fox",
-        "category": "Nintendo 64",
-        "developer": "HarbourMasters",
-        "version": "1.0",
-        "directDownloadUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/releases/download/juegos/Star_Fox_Goonies.zip",
-        "posterUrl": "https://github.com/GoodmanBCN10/GooniesPorts-Data/blob/main/StarFox.jpg?raw=true",
-        "description": "After being banished from planet Corneria, the evil scientist Andross declares war on the entire Lylat System. The commanding officer of Corneria's defence force, summons the elite mercenary team Star Fox to defeat Andross.",
-        "sourceUrl": "https://github.com/HarbourMasters/Starship/",
-        "size": 71385247,
-        "publisher": "Nintendo",
-        "genre": "Shooter",
-        "year": "1993",
-        "screenshots": [
-            "https://media.rawg.io/media/screenshots/671/6719b69315712bebdf50cf60e486ca94.jpg",
-            "https://media.rawg.io/media/screenshots/cfc/cfce14ad0c78d088c917da7fca294047.jpg",
-            "https://media.rawg.io/media/screenshots/60b/60b8e4e5282d529a04d3fe1a496586c9.jpg",
-            "https://media.rawg.io/media/screenshots/2de/2de12c5bdcec08fea0d66fdf7b835840.jpg",
-            "https://media.rawg.io/media/screenshots/c0f/c0f8478c92cad1d85a321582da39ed14.jpg",
-            "https://media.rawg.io/media/screenshots/0b2/0b2e91a667a5316e7e093addb63ce3f6.jpg"
-        ]
-    },
-    {
         "name": "coi",
         "title": "Disney Castle of Illusion",
         "category": "Android",
